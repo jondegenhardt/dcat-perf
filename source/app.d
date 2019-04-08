@@ -6,34 +6,42 @@ module dcat;
 import std.typecons : Flag, No, Yes, tuple;
 
 auto helpText = q"EOS
-Synopsis: dcat -t <test> [options] [file]
+Synopsis: dcat -t <test> [file]
 
 dcat reads from a file or standard input and writes each line to standard
 output. This program is used for performance testing.
 
 Tests available (with input and output methods):
 
-* byLineRaw
+* byLineInRawOut
   - Input:  std.stdio.File.byLine
   - Output: std.stdio.File.write
 
-* byLine
+* byLineInBufOut
   - Input:  std.stdio.File.byLine
   - Output: tsv_utils.common.utils.BufferedOutputRange
 
-* bufferedByLine
+* bufferedByLineInBufOut
   - Input:  tsv_utils.common.utils.bufferedByLine
   - Output: tsv_utils.common.utils.BufferedOutputRange
 
-* iopipeByLine
+* iopipeByLineInRawOut
+  - Input:  iopipe.byLine
+  - Output: std.stdio.File.write
+
+* iopipeByLineInBufOut
   - Input:  iopipe.byLine
   - Output: tsv_utils.common.utils.BufferedOutputRange
 
-* byChunkRaw
+* iopipeByLineInIOOut
+  - Input:  iopipe.byLine
+  - Output: std.io.file.File.write
+
+* byChunkInRawOut
   - Input:  std.stdio.File.byChunk
   - Output: std.stdio.File.rawWrite
 
-* byChunk
+* byChunkInBufOut
   - Input:  std.stdio.File.byChunk
   - Output: tsv_utils.common.utils.BufferedOutputRange
 
@@ -45,15 +53,17 @@ Tests available (with input and output methods):
 Options:
 EOS";
 
-enum DCatTestType
+enum DCatTest
     {
-     byLineRaw,
-     byLine,
-     bufferedByLine,
-     iopipeByLine,
-     byChunk,
-     byChunkRaw,
-     byChunkByLine,
+     byLineInRawOut,
+     byLineInBufOut,
+     bufferedByLineInBufOut,
+     iopipeByLineInRawOut,
+     iopipeByLineInBufOut,
+     iopipeByLineInIOOut,
+     byChunkInBufOut,
+     byChunkInRawOut,
+     byChunkInByLineBufOut,
     };
 
 /** Container for command line options.
@@ -63,7 +73,7 @@ struct CmdOptions
     enum defaultHeaderString = "line";
 
     string programName;
-    DCatTestType dcatTest;
+    DCatTest dcatTest;
 
     /* Returns a tuple. First value is true if command line arguments were successfully
      * processed and execution should continue, or false if an error occurred or the user
@@ -80,11 +90,16 @@ struct CmdOptions
 
         try
         {
+            import std.traits : EnumMembers;
+            import std.conv : to;
+
+            auto dcatTestNames = [EnumMembers!DCatTest];
+            auto testOptionDescription = "One of: " ~ dcatTestNames.to!string;
             auto r = getopt(
                 cmdArgs,
                 std.getopt.config.caseSensitive,
                 std.getopt.config.required,
-                "t|test", "byLine, chunkByLine, chunkByChunk, chunkByChunkDirect, bufferedByLine", &dcatTest,
+                "t|test", testOptionDescription, &dcatTest,
             );
 
             if (r.helpWanted)
@@ -98,6 +113,7 @@ struct CmdOptions
             stderr.writefln("[%s] Error processing command line arguments: %s", programName, e.msg);
             return tuple(false, 1);
         }
+
         return tuple(true, 0);
     }
 }
@@ -142,39 +158,46 @@ void dcat(in CmdOptions cmdopt, in string[] inputFiles)
 
     final switch(cmdopt.dcatTest)
     {
-    case DCatTestType.byLineRaw:
-        testByLineRaw(cmdopt, filename);
+    case DCatTest.byLineInRawOut:
+        useByLineInRawOut(cmdopt, filename);
         break;
 
-    case DCatTestType.byLine:
-        testByLine(cmdopt, filename, bufferedOutput);
+    case DCatTest.byLineInBufOut:
+        useByLineInBufOut(cmdopt, filename, bufferedOutput);
         break;
 
-    case DCatTestType.bufferedByLine:
-        testBufferedByLine(cmdopt, filename, bufferedOutput);
+    case DCatTest.bufferedByLineInBufOut:
+        useBufferedByLineInBufOut(cmdopt, filename, bufferedOutput);
         break;
 
-    case DCatTestType.iopipeByLine:
-        testIopipeByLine(cmdopt, filename, bufferedOutput);
+    case DCatTest.iopipeByLineInRawOut:
+        useIopipeByLineInRawOut(cmdopt, filename);
         break;
 
-    case DCatTestType.byChunkRaw:
-        testByChunkRaw(cmdopt, filename);
+    case DCatTest.iopipeByLineInBufOut:
+        useIopipeByLineInBufOut(cmdopt, filename, bufferedOutput);
         break;
 
-    case DCatTestType.byChunk:
-        testByChunk(cmdopt, filename, bufferedOutput);
+    case DCatTest.iopipeByLineInIOOut:
+        useIopipeByLineInIOOut(cmdopt, filename);
         break;
 
-    case DCatTestType.byChunkByLine:
-        testByChunkByLine(cmdopt, filename, bufferedOutput);
+    case DCatTest.byChunkInRawOut:
+        useByChunkInRawOut(cmdopt, filename);
+        break;
+
+    case DCatTest.byChunkInBufOut:
+        useByChunkInBufOut(cmdopt, filename, bufferedOutput);
+        break;
+
+    case DCatTest.byChunkInByLineBufOut:
+        useByChunkInByLineBufOut(cmdopt, filename, bufferedOutput);
         break;
     }
 }
 
-void testByLineRaw(CmdOptions cmdopt, string filename)
+void useByLineInRawOut(CmdOptions cmdopt, string filename)
 {
-    import std.range;
     import std.stdio;
 
     auto inputStream = (filename == "-") ? stdin : filename.File();
@@ -184,7 +207,7 @@ void testByLineRaw(CmdOptions cmdopt, string filename)
     }
 }
 
-void testByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
+void useByLineInBufOut(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
 {
     import std.range;
     import std.stdio;
@@ -196,7 +219,7 @@ void testByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref Output
     }
 }
 
-void testBufferedByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
+void useBufferedByLineInBufOut(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
 {
     import std.range;
     import std.stdio;
@@ -209,11 +232,41 @@ void testBufferedByLine(OutputRange)(CmdOptions cmdopt, string filename, auto re
     }
 }
 
-void testIopipeByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
+void useIopipeByLineInRawOut(CmdOptions cmdopt, string filename)
+{
+    import iopipe.textpipe;
+    import iopipe.bufpipe;
+    import std.stdio : writeln;
+    import std.io;
+    import std.typecons : refCounted;
+
+    version(Posix)
+    {
+        /* At present (std.io 0.2.2) supports access to stdin/stdout/stderr only via
+         * native handles. See: https://github.com/MartinNowak/io/issues/14
+         */
+        auto inputStream = (filename == "-") ? 0.File().refCounted : filename.File().refCounted;
+    }
+    else
+    {
+        if (filename == "-")
+        {
+            import std.exception;
+            throw new Exception("useIoPipeByLineInBufOut supports reading from stdin only on Posix.");
+        }
+
+        auto inputStream = filename.File().refCounted;
+    }
+
+    foreach (ref line; inputStream.bufd.assumeText.byLineRange)
+    {
+        writeln(line);
+    }
+}
+
+void useIopipeByLineInBufOut(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
 {
     import std.range;
-    import tsv_utils.common.utils : bufferedByLine;
-
     import iopipe.textpipe;
     import iopipe.bufpipe;
     import std.io;
@@ -231,7 +284,7 @@ void testIopipeByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref 
         if (filename == "-")
         {
             import std.exception;
-            throw new Exception("testIoPipeByLine supports reading from stdin only on Posix.");
+            throw new Exception("useIoPipeByLineInBufOut supports reading from stdin only on Posix.");
         }
 
         auto inputStream = filename.File().refCounted;
@@ -244,7 +297,34 @@ void testIopipeByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref 
     }
 }
 
-void testByChunkRaw(CmdOptions cmdopt, string filename)
+void useIopipeByLineInIOOut(CmdOptions cmdopt, string filename)
+{
+    import iopipe.textpipe;
+    import iopipe.bufpipe;
+    import std.io;
+    import std.typecons : refCounted;
+
+    version(Posix)
+    {
+        /* At present (std.io 0.2.2) supports access to stdin/stdout/stderr only via
+         * native handles. See: https://github.com/MartinNowak/io/issues/14
+         */
+        auto inputStream = (filename == "-") ? 0.File().refCounted : filename.File().refCounted;
+        auto ioStdOut = 1.File().refCounted;
+    }
+    else
+    {
+        import std.exception;
+        throw new Exception("useIoPipeByLineInIOOut is available only on Posix.");
+    }
+
+    foreach (ref line; inputStream.bufd.assumeText.byLineRange)
+    {
+        ioStdOut.write(cast(ubyte[])line, cast(ubyte[])"\n");
+    }
+}
+
+void useByChunkInRawOut(CmdOptions cmdopt, string filename)
 {
     import std.stdio;
 
@@ -252,7 +332,7 @@ void testByChunkRaw(CmdOptions cmdopt, string filename)
     foreach (ref c; ifile.byChunk(1024 * 128)) stdout.rawWrite(c);
 }
 
-void testByChunk(BufferedOutputRange)(CmdOptions cmdopt, string filename, auto ref BufferedOutputRange outputStream)
+void useByChunkInBufOut(BufferedOutputRange)(CmdOptions cmdopt, string filename, auto ref BufferedOutputRange outputStream)
 {
     import std.stdio;
     import tsv_utils.common.utils : bufferedByLine;
@@ -268,7 +348,7 @@ void testByChunk(BufferedOutputRange)(CmdOptions cmdopt, string filename, auto r
     outputStream.flush;
 }
 
-void testByChunkByLine(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
+void useByChunkInByLineBufOut(OutputRange)(CmdOptions cmdopt, string filename, auto ref OutputRange outputStream)
 {
     import std.algorithm : splitter;
     import std.stdio;

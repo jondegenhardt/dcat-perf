@@ -7,7 +7,7 @@
     "license"      : "BSL-1.0",
     "dependencies" : {
         "iopipe": "~>0.1.7",
-        "tsv-utils:common": { "path" : "tsv-utils" }
+        "tsv-utils:common": "~>1.4.1"
     },
     "buildTypes" : {
         "release-lto" : {
