@@ -1,7 +1,7 @@
 {
-    "name"         : "dcat",
-    "description"  : "Performance tests using a Unix 'cat' style program.",
-    "homepage"     : "https://github.com/jondegenhardt/dcat",
+    "name"         : "dcat-perf",
+    "description"  : "Unix 'cat' style program for D language performance tests.",
+    "homepage"     : "https://github.com/jondegenhardt/dcat-perf",
     "authors"      : ["Jon Degenhardt"],
     "copyright"    : "Copyright (c) 2019, Jon Degenhardt",
     "license"      : "BSL-1.0",
@@ -9,10 +9,16 @@
         "iopipe": "~>0.1.7",
         "tsv-utils:common": "~>1.4.1"
     },
+    "targetName" : "dcat",
+    "targetPath" : "bin",
     "buildTypes" : {
         "release-lto" : {
             "buildOptions" : ["releaseMode", "optimize",  "inline", "noBoundsCheck" ],
             "dflags-ldc" : ["-flto=thin", "-defaultlib=phobos2-ldc-lto,druntime-ldc-lto", "-singleobj" ]
         }
+    },
+    "toolchainRequirements": {
+	"ldc": ">=1.9.0"
     }
+
 }

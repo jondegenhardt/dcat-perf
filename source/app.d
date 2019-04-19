@@ -1,5 +1,7 @@
 /**
-A simple version of the unix 'cat' program. It is used for performance testing,
+A simple version of the unix 'cat' program. It is used for performance testing.
+
+Copyright (c) 2019, Jon Degenhardt
 */
 module dcat;
 
