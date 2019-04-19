@@ -38,12 +38,17 @@ $ echo $'test\telapsed\tuser\tsystem\tcpu_pct\tmem' > perf-results.tsv; \
 The results are written to `perf-results.tsv`.
 
 ```
-$ head -n 5 perf-results.tsv
+$ head perf-results.tsv
 test	elapsed	user	system	cpu_pct	mem
 byLineInRawOut	22.78	21.86	0.87	99%	1968
 byLineInBufOut	9.66	8.75	0.88	99%	1952
 bufferedByLineInBufOut	6.89	6.43	0.44	99%	2096
 iopipeByLineInRawOut	21.46	20.80	0.56	99%	1940
+iopipeByLineInBufOut	3.55	3.05	0.48	99%	1968
+byLineInRawOut	22.52	21.63	0.86	99%	1952
+byLineInBufOut	9.50	8.62	0.87	99%	1940
+bufferedByLineInBufOut	6.85	6.40	0.43	99%	2084
+iopipeByLineInRawOut	20.41	19.88	0.50	99%	1952
 ```
 
 If [tsv-utils](https://github.com/eBay/tsv-utils) are installed ([download page](https://github.com/eBay/tsv-utils/releases)), median timing data can be calculated as follows:
