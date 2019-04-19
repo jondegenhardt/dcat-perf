@@ -9,15 +9,13 @@ $ dub build --compiler=ldc2 --build=release-lto --combined
 
 The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the code.
 
-`dcat` currently includes d
-
-Some benchmarks generated with this tool can be found on the [issues](https://github.com/jondegenhardt/dcat-perf/issues) page.
-
 Currently this tool includes components from:
 * [D Standard Library](https://dlang.org/phobos/index.html)
 * Steven Schveighoffer's [iopipe](https://github.com/schveiguy/iopipe) library
 * Martin Nowak's [std.io](https://github.com/MartinNowak/io) library
 * [eBay's TSV Utilities](https://github.com/eBay/tsv-utils)
+
+Some benchmarks generated with this tool can be found on the [issues](https://github.com/jondegenhardt/dcat-perf/issues) page.
 
 ## Example timing run
 
