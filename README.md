@@ -1,6 +1,6 @@
-# dcat
+# dcat-perf
 
-`dcat` is a very simple tool for examing some aspects of I/O performance using constructs available in the D programming language ecosystem. `dcat` reads input from a file or standard input and writes results to standard output. Most tests focus on reading and writing line-by-line. Use Unix `time` or similar to get timing data.
+`dcat` is a very simple tool for examing performance of I/O facilities available in the D programming language ecosystem. `dcat` reads input from a file or standard input and writes results to standard output. Most tests focus on reading and writing line-by-line. Use Unix `time` or similar to get timing data.
 
 Clone this repo and build with LDC using the command:
 ```
@@ -9,13 +9,21 @@ $ dub build --compiler=ldc2 --build=release-lto --combined
 
 The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the code.
 
+`dcat` currently includes d
+
 Some benchmarks generated with this tool can be found on the [issues](https://github.com/jondegenhardt/dcat-perf/issues) page.
+
+Currently this tool includes components from:
+* [D Standard Library](https://dlang.org/phobos/index.html)
+* Steven Schveighoffer's [iopipe](https://github.com/schveiguy/iopipe) library
+* Martin Nowak's [std.io](https://github.com/MartinNowak/io) library
+* [eBay's TSV Utilities](https://github.com/eBay/tsv-utils)
 
 ## Example timing run
 
-The example below performs runs on the google one-gram file for the letter 's', available from the[Google Books ngram datasets](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html). It has been downloaded as `googlebooks-eng-all-1gram-20120701-s.tsv`. The command below was run on OS X and uses the GNU versions of `time` and `wc`, which are installed as `gtime` and `gwc` by Homebrew.
+The example below performs runs on the google one-gram file for the letter 's', available from the [Google Books ngram datasets](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html). It has been downloaded as `googlebooks-eng-all-1gram-20120701-s.tsv`. The command below was run on MacOS and uses the GNU versions of `time` and `wc`, which are installed as `gtime` and `gwc` by Homebrew.
 
-This command runs several of the available dcat tests five time each and writes the results to the file perf-results.tsv. The `g|wc` command is used to load the file into disk cache so every run starts from the same basis wrt caches.
+This command runs several of the available `dcat` tests five time each and writes the results to the file perf-results.tsv. The `g|wc` command is used to load the file into disk cache so every run starts from the same basis with respect to caches.
 
 ```
 $ echo $'test\telapsed\tuser\tsystem\tcpu_pct\tmem' > perf-results.tsv; \
@@ -29,7 +37,7 @@ $ echo $'test\telapsed\tuser\tsystem\tcpu_pct\tmem' > perf-results.tsv; \
   done
 ```
 
-The results are written `perf-results.tsv`.
+The results are written to `perf-results.tsv`.
 
 ```
 $ head -n 5 perf-results.tsv
@@ -40,7 +48,7 @@ bufferedByLineInBufOut	6.89	6.43	0.44	99%	2096
 iopipeByLineInRawOut	21.46	20.80	0.56	99%	1940
 ```
 
-If [tsv-utils](https://github.com/eBay/tsv-utils) are installed ([download page](https://github.com/eBay/tsv-utils/releases)) you can calculate the median timing data as follows:
+If [tsv-utils](https://github.com/eBay/tsv-utils) are installed ([download page](https://github.com/eBay/tsv-utils/releases)), median timing data can be calculated as follows:
 
 ```
 $ tsv-summarize -H --group-by 1 --median 2-4,6 perf-results.tsv | tsv-pretty -p 2
