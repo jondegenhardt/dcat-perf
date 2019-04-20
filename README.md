@@ -9,7 +9,7 @@ $ dub build --compiler=ldc2 --build=release-lto --combined
 
 The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the [code](source/app.d#L11).
 
-Currently this tool includes components from:
+Tests available are based on components from:
 * [D Standard Library](https://dlang.org/phobos/index.html)
 * Steven Schveighoffer's [iopipe](https://github.com/schveiguy/iopipe) library
 * Martin Nowak's [std.io](https://github.com/MartinNowak/io) library
@@ -51,7 +51,7 @@ bufferedByLineInBufOut	6.85	6.40	0.43	99%	2084
 iopipeByLineInRawOut	20.41	19.88	0.50	99%	1952
 ```
 
-Median timing values can be calculated using [tsv-utils](https://github.com/eBay/tsv-utils) ([download page](https://github.com/eBay/tsv-utils/releases)) as follows:
+Median timing values can be calculated using [tsv-utils](https://github.com/eBay/tsv-utils) as follows:
 
 ```
 $ tsv-summarize -H --group-by 1 --median 2-4,6 perf-results.tsv | tsv-pretty -p 2
