@@ -1,13 +1,13 @@
 # dcat
 
-`dcat` is a very simple tool for examing performance of I/O facilities available in the D programming language ecosystem. `dcat` reads input from a file or standard input and writes results to standard output. Most tests focus on reading and writing line-by-line. Use Unix `time` or similar to get timing data.
+`dcat` is a very simple tool for examining performance of I/O facilities available in the D programming language ecosystem. `dcat` reads input from a file or standard input and writes results to standard output. Most tests focus on reading and writing line-by-line. Use Unix `time` or similar to get timing data.
 
 Clone this repo and build with LDC using the command:
 ```
 $ dub build --compiler=ldc2 --build=release-lto --combined
 ```
 
-The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the code.
+The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the [code](source/app.d#L11).
 
 Currently this tool includes components from:
 * [D Standard Library](https://dlang.org/phobos/index.html)
@@ -51,7 +51,7 @@ bufferedByLineInBufOut	6.85	6.40	0.43	99%	2084
 iopipeByLineInRawOut	20.41	19.88	0.50	99%	1952
 ```
 
-If [tsv-utils](https://github.com/eBay/tsv-utils) are installed ([download page](https://github.com/eBay/tsv-utils/releases)), median timing data can be calculated as follows:
+Median timing values can be calculated using [tsv-utils](https://github.com/eBay/tsv-utils) ([download page](https://github.com/eBay/tsv-utils/releases)) as follows:
 
 ```
 $ tsv-summarize -H --group-by 1 --median 2-4,6 perf-results.tsv | tsv-pretty -p 2
