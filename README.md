@@ -1,6 +1,6 @@
 # dcat
 
-`dcat` is a very simple tool for examining performance of I/O facilities available in the D programming language ecosystem. `dcat` reads input from a file or standard input and writes results to standard output. Most tests focus on reading and writing line-by-line. Use Unix `time` or similar to get timing data.
+`dcat` is a very simple tool for examining performance of I/O facilities available in the D programming language ecosystem. `dcat` reads input from a file or standard input and writes results to standard output. The I/O methods to test are specified on the command line. Most tests focus on reading and writing line-by-line. Use Unix `time` or similar to get timing data.
 
 Clone this repo and build with LDC using the command:
 ```
