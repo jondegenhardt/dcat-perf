@@ -1,4 +1,4 @@
-#! /bin/sh
+#! /bin/bash
 
 if [ $# -lt 2 ]; then
     echo "Synopsis: $0 <instrumented-program-path> <dcompiler-name-or-path>"
