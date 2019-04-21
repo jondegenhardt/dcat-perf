@@ -4,6 +4,11 @@
 
 Clone this repo and build with LDC using the command:
 ```
+$ dub build --compiler=ldc2 --build=release-lto-pgo --combined
+```
+
+The above builds with LTO and PGO. To skip PGO and use LTO only:
+```
 $ dub build --compiler=ldc2 --build=release-lto --combined
 ```
 
