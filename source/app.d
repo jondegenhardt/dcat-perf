@@ -135,6 +135,14 @@ int main(string[] cmdArgs)
     CmdOptions cmdopt;
     auto r = cmdopt.processArgs(cmdArgs);
     if (!r[0]) return r[1];
+
+    version(LDC_Profile)
+    {
+        /* LDC profile build - reset data collection after command line arg processing. */
+        import ldc.profile : resetAll;
+        resetAll();
+    }
+
     try dcat(cmdopt, cmdArgs[1..$]);
     catch (Exception exc)
     {
