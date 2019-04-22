@@ -1454,3 +1454,1697 @@ opq opq opq opq opq opq opq opq
 opq opq opq opq opq opq opq
 opq opq opq opq opq
 opq opq opq opq opq opq opq opq opq opq
+
+===========================================================================================
+
+Anemone	Anemona	Ανεμώνη	Anemone	Anemone	Kökörcsin	Anemon	Anemone	Anemone	Sasanka	Anemone	海葵	아네모네	アネモネ	एनिमोन
+Lily	Ljiljan	Κρίνος	Lily	Lily	Liliom	Bunga bakung	Giglio	Lily	Lilie	Lily	百合	백합	ゆり	लिली
+Begonia	Begonija	Μπιγκόνια	Begonia	Begonia	Begónia	Begonia	Begonia	Begonia	Begónie	Begonia	海棠	베고니아	ベゴニア	Begonia
+Carnation	Karanfil	Γαρύφαλλο	Carnation	Carnation	Szegfű	Anyelir	Garofano	Kaomi	Karafiát	Carnation	康乃馨	카네이션	カーネーション	अभिनय
+Daffodil	narcisa	Ασφόδελος	Daffodil	Daffodil	Nárcisz	Bakung	narciso	Kuʻi	Narcis	Daffodil	喇叭水仙	수선화	水仙	Daffodil
+Daisy	Tratinčica	Μαργαρίτα	Daisy	Nóinín	Százszorszép	bunga aster	Margherita	ʻO Daisy	Sedmikráska	Daisy	雏菊	데이지	デイジー	Daisy
+Gardenia	Gardenija	Γαρδένια	Gardenia	Gardenia	Gardénia	Kacapiring	Gardenia	ʻO Gardenia	Gardenia	Gardenia	栀	치자 나무	ガーデニア	Gardenia
+Geranium	zdravac	Γεράνι	Geranium	Geranium	Muskátli	Kerenyam	Geranio	Geranium	Pelargónie	Geranium	天竺葵	제라늄	ゼラニウム	Geranium
+Iris	Iris	Ίρις	Iris	Iris	Írisz	Iris	Iris	ʻOki	Duhovka	Iris	鸢尾花	아이리스	虹彩	इरिस
+Jasmine	Jasmin	Γιασεμί	Jasmine	Jasmine	Jázmin	Melati	Gelsomino	ʻO Jasmine	Jasmín	Jasmine	茉莉花	재스민 속	ジャスミン	जैस्मीन
+Lavender	Lavanda	Λεβάντα	Lavender	Lavender	Levendula	Lavender	Lavanda	Lavender	Levandule	laventel	薰衣草	라벤더	ラベンダー	लेभेंडर
+Lilac	Lila	Πασχαλιά	Lilac	Lilac	Halványlila	Ungu	Lilla	Lilac	Šeřík	lila	紫丁香	라일락 꽃	ライラック	Lilac
+Magnolia	Magnolija	Μαγνολία	Magnolia	Magnolia	magnólia növény	Magnolia	Magnolia	Magnolia	Magnólie	Magnolia	玉兰	목련	マグノリア	म्यागोलिया
+Marigold	Neven	Κατιφές	Marigold	Marigold	Körömvirág	Marigold	Calendula	ʻO Marigold	Měsíček	Marigold	万寿菊	금잔화	マリーゴールド	मार्गोल्ड
+Orchid	Orhideja	Ορχιδέα	Orkidyas	Magairlín	Orchidea	Anggrek	Orchidea	Orchid	Orchidej	Orchid	兰花	난초	蘭	आर्किड
+Pansy	maćuhica	Πανσές	Pansy	Pansy	Árvácska	Banci	viola del pensiero	Pansy	Maceška	Pansy	三色堇	팬지	パンジー	Pansy
+Rose	Ruža	Τριαντάφυλλο	Rose	Rós	Rózsa	Mawar	Rosa	ʻO Rose	Růže	Rose	玫瑰	장미	ローズ	गुलाफ
+Snapdragon	Zijevalica	Αντίρριο	Snapdragon	Snapdragon	Tátika	Snapdragon	bocca di leone	Pāʻani	Hledík	Snapdragon	金鱼草	금어초	キンギョソウ	स्नैपड्रागन
+Sunflower	Suncokret	Ηλιοτρόπιο	Sunflower	Lus na gréine	Napraforgó	Bunga matahari	Girasole	Pakele	Slunečnice	sonneblom	向日葵	해바라기	ひまわり	सूरजमुखी
+One	Jedan	Ενας	Isa	Amháin	Egy	Satu	Uno	Ekahi	Jeden	een	一	하나	1	One
+Two	Dva	Δύο	Dalawa	Dhá	Két	Dua	Due	Elua	Dva	twee	二	두	二	दुई
+Three	Tri	Τρία	Tatlong	Trí	Három	Tiga	Tre	Ekolu	Tři	drie	三	세	三	तीन
+Four	četiri	Τέσσερα	Apat	Ceithre cinn	négy	Empat	quattro	ʻEhā	Čtyři	vier	四	네	四	चार
+Five	Pet	Πέντε	Limang	Cúig	Öt	Lima	Cinque	Elima	Pět	Vyf	五	다섯	五	पाँच
+Six	Šest	Εξι	Anim	Sé	Hat	Enam	Sei	Eono	Šest	ses	六	육	シックス	छ
+Seven	sedam	Επτά	Pitong	Seacht	hét	Tujuh	Sette	ʻEhiku	Sedm	sewe	七	세븐	セブン	सात
+Eight	Osam	Οκτώ	Eight	Ocht	Nyolc	Delapan	Otto	Ewalu	Osm	agt	八	여덟	8	आठौं
+Nine	Devet	Εννέα	Siyam	Naoi	Kilenc	Sembilan	Nove	Eiwa	Devět	nege	九	아홉	ナイン	नौ
+Ten	Deset	Δέκα	Sampung	Deich	Tíz	Sepuluh	Dieci	Umi	Deset	tien	十	십	十	दस
+Elevin	Elevin	Ελβίν	Elevin	Elevin	Elevin	Elevin	Elevin	ʻO Elevin	Elevine	Elevin	Elevin	Elevin	エレヴィン	लिफ्ट
+Twelve	Dvanaest	Δώδεκα	Labindalawa	Dhá cheann déag	Tizenkét	Duabelas	Dodici	Umikumālua	Dvanáct	twaalf	十二	열두	12	बाह्रौं
+Thirteen	Trinaest	Δεκατρείς	Labintatlo	Trí cinn déag	Tizenhárom	Tigabelas	Tredici	Umikumākolu	13	dertien	十三	열셋	13	तर्फ
+Fourteen	Četrnaest	Δεκατέσσερα	Labing-apat	Ceithre cinn déag	Tizennégy	Empat belas	Quattordici	Umikumāhā	Čtrnáct	veertien	十四	십사	十四	चौधरी
+Fifteen	Petnaest	Δεκαπέντε	Labinlimang	Cúig cinn déag	Tizenöt	Lima belas	Quindici	Umikumālima	Patnáct	vyftien	十五	열 다섯	15	पन्ध्र
+Sixteen	Šesnaest	Δεκαέξι	Labing-anim	Sé bliana déag	Tizenhat	Enambelas	Sedici	Umikumāono	Šestnáct	sestien	十六	열 여섯 번째	16	सोह्र
+Seventeen	sedamnaest	Δεκαεπτά	Labimpito	Seacht gcinn déag	Tizenhét	Tujuh belas	Diciassette	Umikumāhiku	Sedmnáct	sewentien	十七	십칠	17	Seventeen
+Eightteen	Eightteen	Δεκαοκτώ	Labing-walo	Ocht mbliana déag	tizennyolcezer	Delapan belas	Eightteen	ʻOʻumikumamāwalu	Osmnáct	Eightteen	Eightteen	열 여덟	18	आठौं
+Nineteen	Devetnaest	Δεκαεννέα	Labinsiyam	Naoi mbliana déag	Tizenkilenc	Sembilan belas	Diciannove	Umikumaiwa	Devatenáct	negentien	十九	십구	19歳	Nineteen
+Twenty	Dvadeset	Είκοσι	Dalawampung	Fiche	Húsz	Dua puluh	Venti	Iwakālua	Dvacet	Twintig	二十	스물	20	बीस
+Cardinal	Kardinal	Καρδινάλιος	Cardinal	Cairdinéal	Bíboros	Kardinal	Cardinale	Kainalinal	Kardinál	kardinale	枢机主教	추기경	枢機卿	कार्डिनल
+Dove	Golubica	Περιστέρι	Dove	Dove	Galamb	Merpati	Colomba	Pākuʻi	Holubice	Dove	鸽子	비둘기	鳩	डुव
+Crow	vrana	Κοράκι	Crow	Crow	varjú	Gagak	Corvo	Kekahi	Vrána	Kraai	乌鸦	까마귀	カラス	Crow
+Starling	Čvorak	Ψαρόνι	Starling	Starling	Seregély	Jalak	Storno	Hoʻoponopono	Špaček	Starling	欧椋鸟	찌르레기	ムクドリ	स्टार्लिंग
+Junco	Junco	Junco	Junco	Junco	Junco	Junco	Junco	ʻO Junco	Junco	Junco	洪科	준코	ジュンコ	Junco
+Chickadee	Chickadee	Είδος αιγίθαλου	Chickadee	Chickadee	Feketefejű cinke	Chickadee	Chickadee	ʻO Chickadee	Americký ptáček	Chickadee	山雀	총칭	チカディー	Chickadee
+Nuthatch	plavi brgljez	Μπράουν	Nuthatch	Nuthatch	Kékharkály	Nuthatch	Picchio muratore	Nuthatch	Brhlík lesní	Nuthatch	五十雀	동고비	ナットハッチ	Nuthatch
+Titmouse	Sjenica	Αιγίθαλος	Titmouse	Teach Tí	Cinke	Titmouse	Cincia	Penei	Sýkorka	Mezen	山雀	흰둥이	シジュウカラ	Titmouse
+Sparrow	Vrabac	Σπουργίτης	Sparrow	Sparrow	Veréb	Burung gereja	Passero	ʻO Sparrow	Vrabec	Sparrow	麻雀	참새	スズメ	स्पारो
+Finch	Zeba	Σπίνος	Finch	Finch	Pinty	Finch	fringuello	ʻO Finch	Pěnkava	Finch	芬奇	핀치	フィンチ	समाप्त गर्नुहोस्
+Woodpecker	Djetlić	Δρυοκολάπτης	Woodpecker	Woodpecker	Harkály	Burung pelatuk	Picchio	ʻO Woodpecker	Datel	houtkapper	啄木鸟	딱따구리	キツツキ	Woodpecker
+Hummingbird	Kolibri	κολίμπρι	Hummingbird	Hummingbird	Kolibri	Burung kolibri	Colibrì	ʻO Hummingbird	Kolibřík	Hummingbird	蜂鸟	벌새	ハチドリ	Hummingbird
+Duck	Patka	Πάπια	Duck	Lacha	Kacsa	bebek	Anatra	Duck	Kachna	Duck	鸭	오리	アヒル	बतख
+Oriole	Zlatka	Φλώρος	Oriole	Oriole	Sárgarigó	Oriole	rigogolo	ʻO Oriole	Žluva	Oriole	莺	꾀꼬리	オリオール	ओरिले
+Flamingo	Flamingo	Φοινικόπτερος	Flamingo	Flamingo	Flamingó	Flamingo	Fenicottero	Flamingo	Plameňák	Flamingo	火烈鸟	플라밍고	フラミンゴ	फ्लेमिङो
+Robin	crvendać	Κοκκινολαίμης	Robin	Robin	Vörösbegy	Robin	pettirosso	ʻO Robin	Červenka	Robin	知更鸟	남자 이름	ロビン	रोबिन
+Sparrow	Vrabac	Σπουργίτης	Sparrow	Sparrow	Veréb	Burung gereja	Passero	ʻO Sparrow	Vrabec	Sparrow	麻雀	참새	スズメ	स्पारो
+Pelican	Pelikan	Πελεκάνος	Pelican	Pelican	Pelikán	Pelikan	Pellicano	Pelican	Pelikán	Pelican	鹈	펠리컨	ペリカン	पेलिकन
+Kestrel	Kliktavac	Είδος μικρού γερακίου	Kestrel	Cocaire	Vörös vércse	Kestrel	Gheppio	Kestrel	Poštolka	Kestrel	红隼	황조롱이	チョウゲンボウ	Kestrel
+Falcon	Sokol	Γεράκι	Falcon	Gorm	Sólyom	Elang	Falco	Kūpono	Sokol	Falcon	鹘	매	ファルコン	Falcon
+Hawk	Sokol	Γεράκι	Hawk	seabhac	Sólyom	Elang	Falco	Hawk	Jestřáb	Hawk	鹰	매	鷹	हक
+Puffin	Puffin	Είδος θαλάσσιου πτηνού	Puffin	Puifín	Északi lunda	Puffin	puffino	Puffin	Puffin	Puffin	海雀	퍼핀	ツノメドリ	पफिन
+Eagle	Orao	Αετός	Eagle	Iolar	Sas	Burung rajawali	Aquila	Eagle	Orel	Eagle	鹰	독수리	鷲	ईगल
+Pigeon	Golub	Περιστέρι	Kalapati	Colm	Galamb	Merpati	Piccione	Pigeon	Holub	duif	鸽子	비둘기	鳩	कबूतर
+Owl	Sova	Κουκουβάγια	Owl	Ulchabhán	Bagoly	Burung hantu	Gufo	Owl	Sova	Owl	猫头鹰	올빼미	フクロウ	Owl
+Albatross	Albatros	Αλμπατρός	Albatross	Albatras	Albatrosz	Elang laut	albatro	Hoʻopili	Albatros	albatros	信天翁	신천옹	アルバトロス	Albatross
+Gull	Galeb	Γλάρος	Gull	Faoileán	Sirály	Camar	Gabbiano	ʻO Gull	Racek	Gull	鸥	갈매기	カモメ	गुल
+Mockingbird	američki drozd	Mockingbird	Mockingbird	Mockingbird	Sokszavú posztáta	Mockingbird	mimo	ʻO Mockingbird	Drozd	Mockingbird	只知更鸟	모킹 버드	モッキンバード	Mockingbird
+Parakeet	Mali papagaj	Είδος παπαγάλου	Parakeet	Parakeet	Ara papagáj	Parkit	Parrocchetto	ʻO Parakeet	Andulka	parkiet	多嘴的人	앵무새의 일종	インコ	प्यारेक
+Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot先生	파로	パロット	Parot
+Cormorant	kormoran	Φαλακροκόραξ	Cormorant	Broigheall	Kormorán	Dandang	Cormorano	Cormorant	Kormorán	visvanger	鸬鹚	가마우지	鵜	Cormorant
+Tern	grupa od tri	Γλαρονάκι	Tern	Tern	Csér	Tiga barang	Tern	Pākē	Rybák	sterretjie	燕鸥	세 개 한 세트	アジサシ	टर्न
+Goose	Guska	Χήνα	Goose	Gé	Liba	Angsa	Oca	Pūnaewele	Husa	Gans	鹅	거위	ガチョウ	गोओस
+Quail	Prepelica	Ορτύκι	Quail	Cé	Fürj	Burung puyuh	Quaglia	Quail	Křepelka	Kwartel	鹌鹑	메추라기	ウズラ	Quail
+Chickadee	Chickadee	Είδος αιγίθαλου	Chickadee	Chickadee	Feketefejű cinke	Chickadee	Chickadee	ʻO Chickadee	Americký ptáček	Chickadee	山雀	총칭	チカディー	Chickadee
+Raven	Gavran	Κοράκι	Raven	Raven	Holló	Gagak	Corvo	ʻO Raven	Havran	Raven	掠夺	갈가마귀	カラス	रेवन
+Bluebird	Plava ptica	Bluebird	Bluebird	Bluebird	Bluebird	Burung biru	Bluebird	ʻO Bluebird	Modrý pták	Bluebird	知更鸟	블루 버드	青い鳥	ब्लुबर्ड
+Partridge	Jarebica	Πέρδικα	Partridge	Partridge	fogoly madár	Ayam hutan	Pernice	ʻO Paterika	Koroptev	Partridge	鹧鸪	자고	パートリッジ	भाग्य
+Egret	Bijela čaplja	Ερωδιός	Egret	Egret	Nemes kócsag	Kuntul	Airone	'Aretā	Volavka	Egret	白鹭	백로	白鷺	Egret
+Heron	Čaplja	Ερωδιός	Heron	Heron	Gém	Bangau	Airone	Heron	Volavka	Heron	鹭	왜가리	ヘロン	हिरोइन
+Frigatebird	Frigatebird	Frigatebird	Frigatebird	Frigatebird	fregattmadár	Burung frigat	frigatebird	Hōʻailona Frigatebird	Pták	Grootfregatvoël	军舰	프리깃 버드	フリゲートバード	फ्रेगेटबर्ड
+Plover	Zviždovka	Plover	Plover	Ceapaire	Lile	Cerek	Piviere	Plover	Kulík	Plover	珩	후치	千鳥	प्लोवर
+Elephant	Slon	Ελέφαντας	Elephant	Eilifint	Elefánt	Gajah	Elefante	Elephant	Slon	olifant	象	코끼리	象	हात्ती
+Pangolin	Pangolin	Είδος μυρμηκοφάγου	Pangolin	Pangolin	Tobzoska	Pangolin	Pangolin	Pangolin	Pangolin	ietermago	穿山甲	천산갑	パンゴリン	पङ्गोलिन
+Pig	Svinja	Χοίρος	Pig	Muc	malac	Babi	Maiale	Pig	Prase	vark	猪	돼지	豚	सुँगुर
+Cattle	stoka	Βοοειδή	Mga baka	Eallach	Marha	Ternak	Bestiame	Ka holoholona	Dobytek	beeste	黄牛	가축	牛	मवेशी
+Buffalo	bizon	Βουβάλι	Buffalo	Buffalo	Bivaly	Kerbau	bufalo	ʻO ka Buffalo	Buvol	Buffalo	水牛	물소	バッファロー	Buffalo
+Goat	Jarac	Γίδα	Kambing	Gabhar	Kecske	Kambing	Capra	Ke Aliʻi	Koza	bok	山羊	염소	やぎ	बकरी
+Sheep	ovca	Πρόβατο	Tupa	Caoirigh	Juh	Domba	pecora	Kau hipa	Ovce	skape	羊	양	羊	भेडा
+Deer	jelen	Ελάφι	Deer	Fianna	Szarvas	Rusa	Cervo	Deer	Jelen	Deer	鹿	사슴	鹿	हिरण
+Macaque	Makak	Μακάκος	Macaque	Macaque	Makákó	Kera	Macaco	Macaque	Makak	makaak	猕	원숭이	マカク	मक्का
+Monkey	Majmun	Πίθηκος	Unggoy	Moncaí	Majom	Monyet	Scimmia	Ka Monkey	Opice	aap	猴	원숭이	モンキー	बाँदर
+Gibbon	Gibon	Γίββων	Gibbon	Gibbon	Gibbon	Siamang	Gibbone	Gibbon	Gibbon	Gibbon	长臂猿	긴팔 원숭이	ギボン	गिबबन
+Rhinoceros	Nosorog	Ρινόκερως	Rhinoceros	Srónbheannach	Orrszarvú	Badak	Rinoceronte	ʻO Rhinocero	Nosorožec	renoster	犀牛	코뿔소	サイ	Rhinoceros
+Tapir	Tapir	Τάπιρος	Tapir	Tapir	Tapír	Tenuk	Tapiro	Pākē	Tapír	tapir	貘	맥	バク	ट्यापिर
+Whale	Kit	Φάλαινα	Balyena	Míol mór	Bálna	Ikan paus	Balena	Whale	Velryba	walvis	鲸	고래	鯨	व्हेल
+Dolphin	Dupin	Δελφίνι	Dolphin	Deilf	Delfin	Lumba-lumba	Delfino	ʻO Dolphin	Delfín	Dolphin	海豚	돌고래	イルカ	डल्फिन
+Jackal	Šakal	Τσακάλι	Jackal	Jackal	Sakál	Serigala	Sciacallo	ʻO Jackal	Šakal	Jakkals	狐狼	재칼	ジャッカル	स्याल
+Raccoon	Rakun	Ρακούν	Raccoon	Racún	Mosómedve	Rakun	Procione	Raccoon	Mýval	wasbeer	狸	너구리	ラクーン	खरगोश
+Dog	Pas	Σκύλος	Aso	Madra	Kutya	Anjing	Cane	Kaʻi	Pes	hond	狗	개	犬	कुकुर
+Mongoose	Mungos	Μαγκούστα	Mongoose	Mongoose	Indiai menyét	Luwak	Mangusta	ʻO Mongoose	Mongoose	muishond	猫鼬	몽구스	マングース	Mongoose
+Otter	Vidra	Βίδρα	Otter	Madra uisce	Vidra	Berang-berang	lontra	ʻO Otter	Vydra	Otter	獭	수달	カワウソ	Otter
+Mouse	Miš	Ποντίκι	Mouse	Luch	Egér	Mouse	Topo	Mouse	Myš	muis	老鼠	쥐	マウス	माउस
+Rat	Štakor	Αρουραίος	Daga	Rat	Patkány	Tikus	Ratto	Ho'ōkā	Krysa	rat	鼠	쥐	ラット	Rat
+Squirrel	Vjeverica	Σκίουρος	Ardilya	Iora	Mókus	Tupai	Scoiattolo	Kamaka	Veverka	Squirrel	松鼠	다람쥐	リス	गिलहरी
+Porcupine	Dikobraz	Ακανθόχοιρος	Porcupine	Torcáin	Tarajos sül	Landak	Porcospino	ʻO Porcupine	Dikobraz	ystervark	豪猪	호저	ヤマアラシ	पोकोपिन
+Mole	Madež	ΕΛΙΑ δερματος	Nunal	CaochÚn	Anyajegy	Tahi lalat	Talpa	Mole	Krtek	Mole	痣	몰	モル	तिल
+Shrew	Goropadnica	Μέγαιρα	Shrew	Scriú	Cickány	Tikus	Toporagno	Hoola	Dračice	feeks	泼妇	뒤쥐	じゃじゃ馬	पछाडि
+Fox	Lisica	Αλεπού	Fox	Fox	Róka	Rubah	Volpe	Fox	Liška	jakkals	狐狸	여우	狐	फक्स
+Bat	Šišmiš	Νυχτερίδα	Bat	Ialtóg	Denevér	Kelelawar	pipistrello	Pā	Netopýr	kolf	蝙蝠	박쥐	コウモリ	Bat
+Wolf	Vuk	Λύκος	Wolf	Mac Tíre	Farkas	Serigala	Lupo	ʻO Wolf	Vlk	Wolf	狼	늑대	狼	ब्वाँसो
+Turtle	Kornjača	Χελώνα	Turtle	Turtar	Teknősbéka	Penyu	Tartaruga	Kaʻi	Želva	skilpad	龟	터틀	カメ	कछुआ
+Gecko	Tropski gušter	Είδος μικρής σαύρας	Gecko	Gecko	Gekkó	Tokek	Geco	ʻO Gecko	Gecko	Gecko	壁虎	게코	ヤモリ	Gecko
+Snake	Zmija	Φίδι	Ahas	Nathair	Kígyó	Ular	Serpente	Snake	Had	slang	蛇	뱀	ヘビ	सांप
+Viper	poskok	Οχιά	Viper	Viper	Vipera	Ular berbisa	Vipera	Kauwela	Zmije	Viper	毒蛇	독사 같은 사람	バイパー	वाइपर
+Toad	žaba krastača	Φρύνος	Palaka	Buaf	Varangy	Katak	Rospo	Toad	Ropucha	Toad	蟾蜍	두꺼비	ヒキガエル	Toad
+Frog	Žaba	Βάτραχος	Frog	Frog	Béka	Katak	Rana	Kuʻi	Žába	padda	青蛙	개구리	カエル	भ्यागुतो
+Catfish	Som	Λυκόψαρο	Hito	Catfish	Harcsa	Ikan lele	Pesce gatto	Kohu	Sumec	baber	鲶鱼	메기	ナマズ	कैटफिश
+Eel	Jegulja	Χέλι	Igat	Eascann	Angolna	Belut	Anguilla	Eel	Úhoř	paling	鳗鱼	뱀장어	うなぎ	ईल
+Shark	Morski pas	Καρχαρίας	Pating	Siorcanna	Cápa	Hiu	Squalo	Pākuʻi	Žralok	haai	鲨鱼	상어	鮫	शार्क
+Minnow	Bjelica	Ψαράκι	Minnow	Minnow	Fürge cselle	Ikan kecil	pesciolino	ʻO Minnow	Střevle	minnow	桃花鱼	시시한 인물	ミノー	Minnow
+
+===================================================================
+
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 12345 12345
+12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345 12345
+678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678 678
+90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90
+1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234 1234
+567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890 567890
+123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123 123
+45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678 45678
+901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901 901
+234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890 234567890
+abcdef GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH
+abcdef GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+abcdef GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+A B C D E F A B C D E F
+GH GH GH GH GH GH GH abcdef
+GHIJ abcdef GHIJ
+KLmn KLmn KLmn KLmn KLmn
+OpQrSt OpQrSt OpQrSt OpQrSt
+uVw uVw uVw uVw uVw
+
+===============================================================
+
+Anemone	Anemona	Ανεμώνη	Anemone	Anemone	Kökörcsin	Anemon	Anemone	Anemone	Sasanka	Anemone	海葵	아네모네	アネモネ	एनिमोन
+Lily	Ljiljan	Κρίνος	Lily	Lily	Liliom	Bunga bakung	Giglio	Lily	Lilie	Lily	百合	백합	ゆり	लिली
+Begonia	Begonija	Μπιγκόνια	Begonia	Begonia	Begónia	Begonia	Begonia	Begonia	Begónie	Begonia	海棠	베고니아	ベゴニア	Begonia
+Carnation	Karanfil	Γαρύφαλλο	Carnation	Carnation	Szegfű	Anyelir	Garofano	Kaomi	Karafiát	Carnation	康乃馨	카네이션	カーネーション	अभिनय
+Daffodil	narcisa	Ασφόδελος	Daffodil	Daffodil	Nárcisz	Bakung	narciso	Kuʻi	Narcis	Daffodil	喇叭水仙	수선화	水仙	Daffodil
+Daisy	Tratinčica	Μαργαρίτα	Daisy	Nóinín	Százszorszép	bunga aster	Margherita	ʻO Daisy	Sedmikráska	Daisy	雏菊	데이지	デイジー	Daisy
+Gardenia	Gardenija	Γαρδένια	Gardenia	Gardenia	Gardénia	Kacapiring	Gardenia	ʻO Gardenia	Gardenia	Gardenia	栀	치자 나무	ガーデニア	Gardenia
+Geranium	zdravac	Γεράνι	Geranium	Geranium	Muskátli	Kerenyam	Geranio	Geranium	Pelargónie	Geranium	天竺葵	제라늄	ゼラニウム	Geranium
+Iris	Iris	Ίρις	Iris	Iris	Írisz	Iris	Iris	ʻOki	Duhovka	Iris	鸢尾花	아이리스	虹彩	इरिस
+Jasmine	Jasmin	Γιασεμί	Jasmine	Jasmine	Jázmin	Melati	Gelsomino	ʻO Jasmine	Jasmín	Jasmine	茉莉花	재스민 속	ジャスミン	जैस्मीन
+Lavender	Lavanda	Λεβάντα	Lavender	Lavender	Levendula	Lavender	Lavanda	Lavender	Levandule	laventel	薰衣草	라벤더	ラベンダー	लेभेंडर
+Lilac	Lila	Πασχαλιά	Lilac	Lilac	Halványlila	Ungu	Lilla	Lilac	Šeřík	lila	紫丁香	라일락 꽃	ライラック	Lilac
+Magnolia	Magnolija	Μαγνολία	Magnolia	Magnolia	magnólia növény	Magnolia	Magnolia	Magnolia	Magnólie	Magnolia	玉兰	목련	マグノリア	म्यागोलिया
+Marigold	Neven	Κατιφές	Marigold	Marigold	Körömvirág	Marigold	Calendula	ʻO Marigold	Měsíček	Marigold	万寿菊	금잔화	マリーゴールド	मार्गोल्ड
+Orchid	Orhideja	Ορχιδέα	Orkidyas	Magairlín	Orchidea	Anggrek	Orchidea	Orchid	Orchidej	Orchid	兰花	난초	蘭	आर्किड
+Pansy	maćuhica	Πανσές	Pansy	Pansy	Árvácska	Banci	viola del pensiero	Pansy	Maceška	Pansy	三色堇	팬지	パンジー	Pansy
+Rose	Ruža	Τριαντάφυλλο	Rose	Rós	Rózsa	Mawar	Rosa	ʻO Rose	Růže	Rose	玫瑰	장미	ローズ	गुलाफ
+Snapdragon	Zijevalica	Αντίρριο	Snapdragon	Snapdragon	Tátika	Snapdragon	bocca di leone	Pāʻani	Hledík	Snapdragon	金鱼草	금어초	キンギョソウ	स्नैपड्रागन
+Sunflower	Suncokret	Ηλιοτρόπιο	Sunflower	Lus na gréine	Napraforgó	Bunga matahari	Girasole	Pakele	Slunečnice	sonneblom	向日葵	해바라기	ひまわり	सूरजमुखी
+One	Jedan	Ενας	Isa	Amháin	Egy	Satu	Uno	Ekahi	Jeden	een	一	하나	1	One
+Two	Dva	Δύο	Dalawa	Dhá	Két	Dua	Due	Elua	Dva	twee	二	두	二	दुई
+Three	Tri	Τρία	Tatlong	Trí	Három	Tiga	Tre	Ekolu	Tři	drie	三	세	三	तीन
+Four	četiri	Τέσσερα	Apat	Ceithre cinn	négy	Empat	quattro	ʻEhā	Čtyři	vier	四	네	四	चार
+Five	Pet	Πέντε	Limang	Cúig	Öt	Lima	Cinque	Elima	Pět	Vyf	五	다섯	五	पाँच
+Six	Šest	Εξι	Anim	Sé	Hat	Enam	Sei	Eono	Šest	ses	六	육	シックス	छ
+Seven	sedam	Επτά	Pitong	Seacht	hét	Tujuh	Sette	ʻEhiku	Sedm	sewe	七	세븐	セブン	सात
+Eight	Osam	Οκτώ	Eight	Ocht	Nyolc	Delapan	Otto	Ewalu	Osm	agt	八	여덟	8	आठौं
+Nine	Devet	Εννέα	Siyam	Naoi	Kilenc	Sembilan	Nove	Eiwa	Devět	nege	九	아홉	ナイン	नौ
+Ten	Deset	Δέκα	Sampung	Deich	Tíz	Sepuluh	Dieci	Umi	Deset	tien	十	십	十	दस
+Elevin	Elevin	Ελβίν	Elevin	Elevin	Elevin	Elevin	Elevin	ʻO Elevin	Elevine	Elevin	Elevin	Elevin	エレヴィン	लिफ्ट
+Twelve	Dvanaest	Δώδεκα	Labindalawa	Dhá cheann déag	Tizenkét	Duabelas	Dodici	Umikumālua	Dvanáct	twaalf	十二	열두	12	बाह्रौं
+Thirteen	Trinaest	Δεκατρείς	Labintatlo	Trí cinn déag	Tizenhárom	Tigabelas	Tredici	Umikumākolu	13	dertien	十三	열셋	13	तर्फ
+Fourteen	Četrnaest	Δεκατέσσερα	Labing-apat	Ceithre cinn déag	Tizennégy	Empat belas	Quattordici	Umikumāhā	Čtrnáct	veertien	十四	십사	十四	चौधरी
+Fifteen	Petnaest	Δεκαπέντε	Labinlimang	Cúig cinn déag	Tizenöt	Lima belas	Quindici	Umikumālima	Patnáct	vyftien	十五	열 다섯	15	पन्ध्र
+Sixteen	Šesnaest	Δεκαέξι	Labing-anim	Sé bliana déag	Tizenhat	Enambelas	Sedici	Umikumāono	Šestnáct	sestien	十六	열 여섯 번째	16	सोह्र
+Seventeen	sedamnaest	Δεκαεπτά	Labimpito	Seacht gcinn déag	Tizenhét	Tujuh belas	Diciassette	Umikumāhiku	Sedmnáct	sewentien	十七	십칠	17	Seventeen
+Eightteen	Eightteen	Δεκαοκτώ	Labing-walo	Ocht mbliana déag	tizennyolcezer	Delapan belas	Eightteen	ʻOʻumikumamāwalu	Osmnáct	Eightteen	Eightteen	열 여덟	18	आठौं
+Nineteen	Devetnaest	Δεκαεννέα	Labinsiyam	Naoi mbliana déag	Tizenkilenc	Sembilan belas	Diciannove	Umikumaiwa	Devatenáct	negentien	十九	십구	19歳	Nineteen
+Twenty	Dvadeset	Είκοσι	Dalawampung	Fiche	Húsz	Dua puluh	Venti	Iwakālua	Dvacet	Twintig	二十	스물	20	बीस
+Cardinal	Kardinal	Καρδινάλιος	Cardinal	Cairdinéal	Bíboros	Kardinal	Cardinale	Kainalinal	Kardinál	kardinale	枢机主教	추기경	枢機卿	कार्डिनल
+Dove	Golubica	Περιστέρι	Dove	Dove	Galamb	Merpati	Colomba	Pākuʻi	Holubice	Dove	鸽子	비둘기	鳩	डुव
+Crow	vrana	Κοράκι	Crow	Crow	varjú	Gagak	Corvo	Kekahi	Vrána	Kraai	乌鸦	까마귀	カラス	Crow
+Starling	Čvorak	Ψαρόνι	Starling	Starling	Seregély	Jalak	Storno	Hoʻoponopono	Špaček	Starling	欧椋鸟	찌르레기	ムクドリ	स्टार्लिंग
+Junco	Junco	Junco	Junco	Junco	Junco	Junco	Junco	ʻO Junco	Junco	Junco	洪科	준코	ジュンコ	Junco
+Chickadee	Chickadee	Είδος αιγίθαλου	Chickadee	Chickadee	Feketefejű cinke	Chickadee	Chickadee	ʻO Chickadee	Americký ptáček	Chickadee	山雀	총칭	チカディー	Chickadee
+Nuthatch	plavi brgljez	Μπράουν	Nuthatch	Nuthatch	Kékharkály	Nuthatch	Picchio muratore	Nuthatch	Brhlík lesní	Nuthatch	五十雀	동고비	ナットハッチ	Nuthatch
+Titmouse	Sjenica	Αιγίθαλος	Titmouse	Teach Tí	Cinke	Titmouse	Cincia	Penei	Sýkorka	Mezen	山雀	흰둥이	シジュウカラ	Titmouse
+Sparrow	Vrabac	Σπουργίτης	Sparrow	Sparrow	Veréb	Burung gereja	Passero	ʻO Sparrow	Vrabec	Sparrow	麻雀	참새	スズメ	स्पारो
+Finch	Zeba	Σπίνος	Finch	Finch	Pinty	Finch	fringuello	ʻO Finch	Pěnkava	Finch	芬奇	핀치	フィンチ	समाप्त गर्नुहोस्
+Woodpecker	Djetlić	Δρυοκολάπτης	Woodpecker	Woodpecker	Harkály	Burung pelatuk	Picchio	ʻO Woodpecker	Datel	houtkapper	啄木鸟	딱따구리	キツツキ	Woodpecker
+Hummingbird	Kolibri	κολίμπρι	Hummingbird	Hummingbird	Kolibri	Burung kolibri	Colibrì	ʻO Hummingbird	Kolibřík	Hummingbird	蜂鸟	벌새	ハチドリ	Hummingbird
+Duck	Patka	Πάπια	Duck	Lacha	Kacsa	bebek	Anatra	Duck	Kachna	Duck	鸭	오리	アヒル	बतख
+Oriole	Zlatka	Φλώρος	Oriole	Oriole	Sárgarigó	Oriole	rigogolo	ʻO Oriole	Žluva	Oriole	莺	꾀꼬리	オリオール	ओरिले
+Flamingo	Flamingo	Φοινικόπτερος	Flamingo	Flamingo	Flamingó	Flamingo	Fenicottero	Flamingo	Plameňák	Flamingo	火烈鸟	플라밍고	フラミンゴ	फ्लेमिङो
+Robin	crvendać	Κοκκινολαίμης	Robin	Robin	Vörösbegy	Robin	pettirosso	ʻO Robin	Červenka	Robin	知更鸟	남자 이름	ロビン	रोबिन
+Sparrow	Vrabac	Σπουργίτης	Sparrow	Sparrow	Veréb	Burung gereja	Passero	ʻO Sparrow	Vrabec	Sparrow	麻雀	참새	スズメ	स्पारो
+Pelican	Pelikan	Πελεκάνος	Pelican	Pelican	Pelikán	Pelikan	Pellicano	Pelican	Pelikán	Pelican	鹈	펠리컨	ペリカン	पेलिकन
+Kestrel	Kliktavac	Είδος μικρού γερακίου	Kestrel	Cocaire	Vörös vércse	Kestrel	Gheppio	Kestrel	Poštolka	Kestrel	红隼	황조롱이	チョウゲンボウ	Kestrel
+Falcon	Sokol	Γεράκι	Falcon	Gorm	Sólyom	Elang	Falco	Kūpono	Sokol	Falcon	鹘	매	ファルコン	Falcon
+Hawk	Sokol	Γεράκι	Hawk	seabhac	Sólyom	Elang	Falco	Hawk	Jestřáb	Hawk	鹰	매	鷹	हक
+Puffin	Puffin	Είδος θαλάσσιου πτηνού	Puffin	Puifín	Északi lunda	Puffin	puffino	Puffin	Puffin	Puffin	海雀	퍼핀	ツノメドリ	पफिन
+Eagle	Orao	Αετός	Eagle	Iolar	Sas	Burung rajawali	Aquila	Eagle	Orel	Eagle	鹰	독수리	鷲	ईगल
+Pigeon	Golub	Περιστέρι	Kalapati	Colm	Galamb	Merpati	Piccione	Pigeon	Holub	duif	鸽子	비둘기	鳩	कबूतर
+Owl	Sova	Κουκουβάγια	Owl	Ulchabhán	Bagoly	Burung hantu	Gufo	Owl	Sova	Owl	猫头鹰	올빼미	フクロウ	Owl
+Albatross	Albatros	Αλμπατρός	Albatross	Albatras	Albatrosz	Elang laut	albatro	Hoʻopili	Albatros	albatros	信天翁	신천옹	アルバトロス	Albatross
+Gull	Galeb	Γλάρος	Gull	Faoileán	Sirály	Camar	Gabbiano	ʻO Gull	Racek	Gull	鸥	갈매기	カモメ	गुल
+Mockingbird	američki drozd	Mockingbird	Mockingbird	Mockingbird	Sokszavú posztáta	Mockingbird	mimo	ʻO Mockingbird	Drozd	Mockingbird	只知更鸟	모킹 버드	モッキンバード	Mockingbird
+Parakeet	Mali papagaj	Είδος παπαγάλου	Parakeet	Parakeet	Ara papagáj	Parkit	Parrocchetto	ʻO Parakeet	Andulka	parkiet	多嘴的人	앵무새의 일종	インコ	प्यारेक
+Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot	Parot先生	파로	パロット	Parot
+Cormorant	kormoran	Φαλακροκόραξ	Cormorant	Broigheall	Kormorán	Dandang	Cormorano	Cormorant	Kormorán	visvanger	鸬鹚	가마우지	鵜	Cormorant
+Tern	grupa od tri	Γλαρονάκι	Tern	Tern	Csér	Tiga barang	Tern	Pākē	Rybák	sterretjie	燕鸥	세 개 한 세트	アジサシ	टर्न
+Goose	Guska	Χήνα	Goose	Gé	Liba	Angsa	Oca	Pūnaewele	Husa	Gans	鹅	거위	ガチョウ	गोओस
+Quail	Prepelica	Ορτύκι	Quail	Cé	Fürj	Burung puyuh	Quaglia	Quail	Křepelka	Kwartel	鹌鹑	메추라기	ウズラ	Quail
+Chickadee	Chickadee	Είδος αιγίθαλου	Chickadee	Chickadee	Feketefejű cinke	Chickadee	Chickadee	ʻO Chickadee	Americký ptáček	Chickadee	山雀	총칭	チカディー	Chickadee
+Raven	Gavran	Κοράκι	Raven	Raven	Holló	Gagak	Corvo	ʻO Raven	Havran	Raven	掠夺	갈가마귀	カラス	रेवन
+Bluebird	Plava ptica	Bluebird	Bluebird	Bluebird	Bluebird	Burung biru	Bluebird	ʻO Bluebird	Modrý pták	Bluebird	知更鸟	블루 버드	青い鳥	ब्लुबर्ड
+Partridge	Jarebica	Πέρδικα	Partridge	Partridge	fogoly madár	Ayam hutan	Pernice	ʻO Paterika	Koroptev	Partridge	鹧鸪	자고	パートリッジ	भाग्य
+Egret	Bijela čaplja	Ερωδιός	Egret	Egret	Nemes kócsag	Kuntul	Airone	'Aretā	Volavka	Egret	白鹭	백로	白鷺	Egret
+Heron	Čaplja	Ερωδιός	Heron	Heron	Gém	Bangau	Airone	Heron	Volavka	Heron	鹭	왜가리	ヘロン	हिरोइन
+Frigatebird	Frigatebird	Frigatebird	Frigatebird	Frigatebird	fregattmadár	Burung frigat	frigatebird	Hōʻailona Frigatebird	Pták	Grootfregatvoël	军舰	프리깃 버드	フリゲートバード	फ्रेगेटबर्ड
+Plover	Zviždovka	Plover	Plover	Ceapaire	Lile	Cerek	Piviere	Plover	Kulík	Plover	珩	후치	千鳥	प्लोवर
+Elephant	Slon	Ελέφαντας	Elephant	Eilifint	Elefánt	Gajah	Elefante	Elephant	Slon	olifant	象	코끼리	象	हात्ती
+Pangolin	Pangolin	Είδος μυρμηκοφάγου	Pangolin	Pangolin	Tobzoska	Pangolin	Pangolin	Pangolin	Pangolin	ietermago	穿山甲	천산갑	パンゴリン	पङ्गोलिन
+Pig	Svinja	Χοίρος	Pig	Muc	malac	Babi	Maiale	Pig	Prase	vark	猪	돼지	豚	सुँगुर
+Cattle	stoka	Βοοειδή	Mga baka	Eallach	Marha	Ternak	Bestiame	Ka holoholona	Dobytek	beeste	黄牛	가축	牛	मवेशी
+Buffalo	bizon	Βουβάλι	Buffalo	Buffalo	Bivaly	Kerbau	bufalo	ʻO ka Buffalo	Buvol	Buffalo	水牛	물소	バッファロー	Buffalo
+Goat	Jarac	Γίδα	Kambing	Gabhar	Kecske	Kambing	Capra	Ke Aliʻi	Koza	bok	山羊	염소	やぎ	बकरी
+Sheep	ovca	Πρόβατο	Tupa	Caoirigh	Juh	Domba	pecora	Kau hipa	Ovce	skape	羊	양	羊	भेडा
+Deer	jelen	Ελάφι	Deer	Fianna	Szarvas	Rusa	Cervo	Deer	Jelen	Deer	鹿	사슴	鹿	हिरण
+Macaque	Makak	Μακάκος	Macaque	Macaque	Makákó	Kera	Macaco	Macaque	Makak	makaak	猕	원숭이	マカク	मक्का
+Monkey	Majmun	Πίθηκος	Unggoy	Moncaí	Majom	Monyet	Scimmia	Ka Monkey	Opice	aap	猴	원숭이	モンキー	बाँदर
+Gibbon	Gibon	Γίββων	Gibbon	Gibbon	Gibbon	Siamang	Gibbone	Gibbon	Gibbon	Gibbon	长臂猿	긴팔 원숭이	ギボン	गिबबन
+Rhinoceros	Nosorog	Ρινόκερως	Rhinoceros	Srónbheannach	Orrszarvú	Badak	Rinoceronte	ʻO Rhinocero	Nosorožec	renoster	犀牛	코뿔소	サイ	Rhinoceros
+Tapir	Tapir	Τάπιρος	Tapir	Tapir	Tapír	Tenuk	Tapiro	Pākē	Tapír	tapir	貘	맥	バク	ट्यापिर
+Whale	Kit	Φάλαινα	Balyena	Míol mór	Bálna	Ikan paus	Balena	Whale	Velryba	walvis	鲸	고래	鯨	व्हेल
+Dolphin	Dupin	Δελφίνι	Dolphin	Deilf	Delfin	Lumba-lumba	Delfino	ʻO Dolphin	Delfín	Dolphin	海豚	돌고래	イルカ	डल्फिन
+Jackal	Šakal	Τσακάλι	Jackal	Jackal	Sakál	Serigala	Sciacallo	ʻO Jackal	Šakal	Jakkals	狐狼	재칼	ジャッカル	स्याल
+Raccoon	Rakun	Ρακούν	Raccoon	Racún	Mosómedve	Rakun	Procione	Raccoon	Mýval	wasbeer	狸	너구리	ラクーン	खरगोश
+Dog	Pas	Σκύλος	Aso	Madra	Kutya	Anjing	Cane	Kaʻi	Pes	hond	狗	개	犬	कुकुर
+Mongoose	Mungos	Μαγκούστα	Mongoose	Mongoose	Indiai menyét	Luwak	Mangusta	ʻO Mongoose	Mongoose	muishond	猫鼬	몽구스	マングース	Mongoose
+Otter	Vidra	Βίδρα	Otter	Madra uisce	Vidra	Berang-berang	lontra	ʻO Otter	Vydra	Otter	獭	수달	カワウソ	Otter
+Mouse	Miš	Ποντίκι	Mouse	Luch	Egér	Mouse	Topo	Mouse	Myš	muis	老鼠	쥐	マウス	माउस
+Rat	Štakor	Αρουραίος	Daga	Rat	Patkány	Tikus	Ratto	Ho'ōkā	Krysa	rat	鼠	쥐	ラット	Rat
+Squirrel	Vjeverica	Σκίουρος	Ardilya	Iora	Mókus	Tupai	Scoiattolo	Kamaka	Veverka	Squirrel	松鼠	다람쥐	リス	गिलहरी
+Porcupine	Dikobraz	Ακανθόχοιρος	Porcupine	Torcáin	Tarajos sül	Landak	Porcospino	ʻO Porcupine	Dikobraz	ystervark	豪猪	호저	ヤマアラシ	पोकोपिन
+Mole	Madež	ΕΛΙΑ δερματος	Nunal	CaochÚn	Anyajegy	Tahi lalat	Talpa	Mole	Krtek	Mole	痣	몰	モル	तिल
+Shrew	Goropadnica	Μέγαιρα	Shrew	Scriú	Cickány	Tikus	Toporagno	Hoola	Dračice	feeks	泼妇	뒤쥐	じゃじゃ馬	पछाडि
+Fox	Lisica	Αλεπού	Fox	Fox	Róka	Rubah	Volpe	Fox	Liška	jakkals	狐狸	여우	狐	फक्स
+Bat	Šišmiš	Νυχτερίδα	Bat	Ialtóg	Denevér	Kelelawar	pipistrello	Pā	Netopýr	kolf	蝙蝠	박쥐	コウモリ	Bat
+Wolf	Vuk	Λύκος	Wolf	Mac Tíre	Farkas	Serigala	Lupo	ʻO Wolf	Vlk	Wolf	狼	늑대	狼	ब्वाँसो
+Turtle	Kornjača	Χελώνα	Turtle	Turtar	Teknősbéka	Penyu	Tartaruga	Kaʻi	Želva	skilpad	龟	터틀	カメ	कछुआ
+Gecko	Tropski gušter	Είδος μικρής σαύρας	Gecko	Gecko	Gekkó	Tokek	Geco	ʻO Gecko	Gecko	Gecko	壁虎	게코	ヤモリ	Gecko
+Snake	Zmija	Φίδι	Ahas	Nathair	Kígyó	Ular	Serpente	Snake	Had	slang	蛇	뱀	ヘビ	सांप
+Viper	poskok	Οχιά	Viper	Viper	Vipera	Ular berbisa	Vipera	Kauwela	Zmije	Viper	毒蛇	독사 같은 사람	バイパー	वाइपर
+Toad	žaba krastača	Φρύνος	Palaka	Buaf	Varangy	Katak	Rospo	Toad	Ropucha	Toad	蟾蜍	두꺼비	ヒキガエル	Toad
+Frog	Žaba	Βάτραχος	Frog	Frog	Béka	Katak	Rana	Kuʻi	Žába	padda	青蛙	개구리	カエル	भ्यागुतो
+Catfish	Som	Λυκόψαρο	Hito	Catfish	Harcsa	Ikan lele	Pesce gatto	Kohu	Sumec	baber	鲶鱼	메기	ナマズ	कैटफिश
+Eel	Jegulja	Χέλι	Igat	Eascann	Angolna	Belut	Anguilla	Eel	Úhoř	paling	鳗鱼	뱀장어	うなぎ	ईल
+Shark	Morski pas	Καρχαρίας	Pating	Siorcanna	Cápa	Hiu	Squalo	Pākuʻi	Žralok	haai	鲨鱼	상어	鮫	शार्क
+Minnow	Bjelica	Ψαράκι	Minnow	Minnow	Fürge cselle	Ikan kecil	pesciolino	ʻO Minnow	Střevle	minnow	桃花鱼	시시한 인물	ミノー	Minnow
+==========================================================================================================================
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI GHI
+JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ JKLMNOPQ
+RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU RSTU
+VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW VW
+XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef XYZabcdef
+ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm ghijklm
+nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr nopqr
+stuvwxyz stuvwxyz stuvwxyz stuvwxyz stuvwxyz
+ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF ABCDEF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH IJ
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF GH
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD EF
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB CD
+AB CD EF GH IJ KL MN OP QR ST UV WX Y AB
+AB CD EF GH IJ KL MN OP QR ST UV WX Y
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+1
+12
+123
+1234
+12345
+123456
+1234567
+12345678
+123456789
+12345678
+1234567
+123456
+12345
+1234
+123
+12
+1
+
+Amber	Bernstein	Ámbar	琥珀色	Amber	Ambre	янтарный	ʻO Amber	アンバー	ambre
+Amethyst	Amethyst	Amatista	紫晶	Amethyst	Ametista	Аметист	ʻO Amethyst	アメジスト	Améthyste
+Aquamarine	Aquamarin	Aguamarina	藍晶	Aquamarine	Aquamarine	Аквамарин	ʻO Aquamarine	アクアマリン	Bleu vert
+Azure	Azurblau	Azur	天藍	Azure	Azure	лазурь	ʻO Azure	紺碧	Azur
+Beige	Beige	Beige	米色	Beige	Beix	Бежевый	Pila	ベージュ	Beige
+Black	Schwarz	Negro	黑色	Nhema	Negre	черный	Eleʻele	ブラック	Noir
+Blue	Blau	Azul	藍色	Bhuruu	Blau	синий	Polū	青	Bleu
+Brown	Braun	marrón	棕色	bhurawuni	Brown	коричневый	palaunu	褐色	marron
+Burgundy	Burgund	borgoña	勃艮第	Burgundy	Borgonya	Бургундия	ʻO Burgundy	ブルゴーニュ	Bourgogne
+Crimson	Crimson	carmesí	赤紅	Crimson	Carmesí	малиновый	Pākī	真紅	cramoisi
+Cyan	Cyan	Cian	青色	Cyan	Cian	Cyan	ʻO Cyan	シアン	Cyan
+Gold	Gold	Oro	金	Ndarama	Or	Золото	ʻO ke gula	ゴールド	Or
+Gray	Grau	gris	灰色	gireyi	Gris	Серый	Hinahina	グレー	gris
+Green	Grün	Verde	綠色	Girinhi	Verd	зеленый	Ōmaʻomaʻo	緑	vert
+Indigo	Indigo	Índigo	靛青	Indigo	Indigo	Индиго	ʻO Indigo	インジゴ	Indigo
+Jade	Jade	Jade	玉	Jade	Jade	нефрит	Hele	翡翠	Jade
+Lavender	Lavendel	Lavanda	薰衣草	Lavender	Lavanda	лаванда	Lavender	ラベンダー	Lavande
+Lemon	Zitrone	Limón	檸檬	Lemon	Llimona	Лимон	Lemon	レモン	citron
+Magenta	Magenta	Magenta	品紅	Magenta	Magenta	фуксин	Magenta	マゼンタ	Magenta
+Maroon	Kastanienbraun	Granate	栗色	Maroon	Marró	каштановый	ʻO Maroon	あずき色	Bordeaux
+Mauve	Mauve	Color de malva	淡紫色	Mauve	Malva	розовато-лиловый	Mauve	モーブ	Mauve
+Orange	Orange	naranja	橙子	orenji	taronja	оранжевый	alani	オレンジ	Orange
+Pink	Rosa	Rosado	粉	Pink	Rosa	розовый	Ākala	ピンク	Rose
+Purple	Lila	Púrpura	紫色	Pepuru	Porpra	Пурпурный	Poni	紫の	Violet
+Red	rot	rojo	紅色	tsvuku	Vermell	красный	ulaʻula	赤	rouge
+Scarlet	Scharlachrot	Escarlata	猩紅	Scarlet	Escarlata	алый	ʻO ka'ōuli	スカーレット	Écarlate
+Silver	Silber	Plata	銀	Sirivha	Plata	Серебряный	ʻO ke kālā	銀	argent
+Tan	Bräunen	Bronceado	黃褐色	Tan	Tan	загар	Tan	日焼け	bronzer
+Taupe	Taupe	Gris pardo	灰褐色	Taupe	Taupe	темно-серый	Taupe	トープ	Taupe
+Teal	Teal	Teal	蒂爾	Teal	Teal	чирок	Keal	ティール	Sarcelle
+Turquoise	Türkis	Turquesa	綠松石	Turquoise	Turquesa	Бирюзовый	ʻO Turquoise	ターコイズ	Turquoise
+Violet	Violett	Violeta	紫色	Violet	violeta	Виолетта	Pākeke	バイオレット	Violet
+White	Weiß	Blanco	白色	chena	Blanc	белый	keʻokeʻo	白	blanc
+Yellow	Gelb	Amarillo	黃色	Yero	Groc	желтый	Melemele	黄	Jaune
+
+Octagon	八角形	Octogone	แปดเหลี่ยม	Achteck	Aštuonkampis	八角形	Oktagonon	Octagon	Osmiúhelník
+Heptagon	七角形	Heptagone	เจ็ดเหลี่ยม	Heptagon	Heptagonas	七邊形	Heptagon	Heptagon	Sedmiúhelník
+Hexagon	六角形	Hexagone	หกเหลี่ยม	Hexagon	Šešiakampis	六邊形	Seslatero	Hecsagon	Šestiúhelník
+Triangle	三角形	Triangle	สามเหลี่ยม	Dreieck	Trikampis	三角形	Triangulo	Triongl	Trojúhelník
+Scalene triangle	スカレントライアングル	Triangle scalène	สามเหลี่ยมสคาลีน	Ungleichseitiges Dreieck	Scalene trikampis	不等邊三角形	Scalena triangulo	Triongl Scalene	Scalene trojúhelník
+Right triangle	直角三角形	Triangle rectangle	สามเหลี่ยมมุมฉาก	Rechtwinkliges Dreieck	Taisyklingas trikampis	直角三角形	Dekstra triangulo	Triongl cywir	Pravoúhlý trojuhelník
+Parallelogram	平行四辺形	Parallélogramme	สี่เหลี่ยมด้านขนาน	Parallelogramm	Lygiagretė	平行四邊形	Paralelogramo	Paralelogram	Rovnoběžník
+Rhombus	ひし形	Rhombe	รูปสี่เหลี่ยมขนมเปียกปูน	Rhombus	Rombas	菱形	Rombo	Rhombus	Kosočtverec
+Square	平方	Carré	สี่เหลี่ยม	Quadrat	Aikštė	廣場	Kvadrato	Sgwâr	Náměstí
+Pentagon	五角形	Pentagone	รูปห้าเหลี่ยม	Pentagon	Pentagonas	五角大樓	Pentagono	Pentagon	Pentagon
+Circle	サークル	Cercle	วงกลม	Kreis	Apskritimas	圈	Rondo	Rhowch gylch	Kruh
+Oval	オーバル	ovale	รูปไข่	Oval	ovalus	橢圓	Ovala	Oval	Ovál
+Heart	心臓	Cœur	หัวใจ	Herz	Širdis	心	Koro	Calon	Srdce
+Cross	クロス	Traverser	ข้าม	Kreuz	Kirsti	交叉	Kruco	Croes	Přejít
+Arrow	矢印	Flèche	ลูกศร	Pfeil	Rodyklė	箭頭	Sago	Saeth	Šipka
+Cube	立方体	cube	ลูกบาศก์	Würfel	kubas	立方體	Kubo	Ciwb	Krychle
+Cylinder	シリンダー	Cylindre	กระบอก	Zylinder	Cilindras	圓筒	Cilindro	Silindr	Válec
+Star	星	Étoile	ดาว	Star	Žvaigždutė	星	Stelo	Seren	Hvězda
+Crescent	三日月	Croissant	เสี้ยว	Halbmond	Pusmėnulio	新月	Luno	Cilgant	Půlměsíc
+Leopard	Leopard	Leopardo	леопард	Leopardi	Leopard	Báo	சிறுத்தை	ヒョウ	Leopard
+Lynx	Rys	Lince	Рысь	Ilves	Lynx	Linh miêu	லின்க்ஸ்	リンクス	Ris
+Cheetah	Gepard	Ghepardo	гепард	Gepardi	Ċita	con báo	சீத்தா	チーター	Gepard
+Cougar	Puma	Puma	пума	puuma	Cougar	Báo sư tử	கோகர்	クーガー	kuguar
+Jaguar	Jaguár	Giaguaro	ягуар	jaguaari	Jaguar	Báo đốm	ஜாகுவார்	ジャガー	Jaguar
+Lion	Lev	Leone	лев	Leijona	Iljun	sư tử	லயன்	ライオン	Lav
+Tiger	Tygr	Tigre	тигр	Tiikeri	Tiger	con hổ	புலி	虎	Tigar
+Bison	Bison	Bisonte	бизон	biisoni	Bison	Bò rừng	பைசன்	バイソン	Bizon
+Moose	Los	alce americano	лось	Hirvi	Moose	Nai	கடமான்	ムース	Los
+Bear	Medvěd	Orso	нести	Karhu	Ibatu	Chịu	தாங்க	くま	Snositi
+Elk	Elk	Alce	лось	Hirvi	Elk	Nai sừng tấm	elk	エルク	Los
+Aardvark	Aardvark	Aardvark	трубкозуб	Maasika	Aardvark	Aardvark	Aardvark	アードヴァーク	Južnoafrički mravojed
+Addax	Addax	Addax	адда	Addax	Addax	Addax	Addax	アダックス	ADDAX
+Parrot	Papoušek	Pappagallo	Попугай	Papukaija	Pappagall	Con vẹt	கிளி	オウム	Papiga
+Baboon	Pavián	Babbuino	бабуин	Paviaani	Babun	Khỉ đầu chó	பபூன்	ヒヒ	Babun
+Fox	Liška	Volpe	Лиса	Kettu	Fox	cáo	ஃபாக்ஸ்	狐	Lisica
+Antelope	Antilopa	Antilope	антилопа	Antilooppi	Antelop	Linh dương	மான்	アンテロープ	Antilopa
+Buffalo	Buvol	bufalo	буйвол	puhveli	Buffalo	trâu	பஃபலோ	バッファロー	bizon
+Zebra	Zebra	Zebra	зебра	Seepra	Żebra	Ngựa rằn	வரிக்குதிரை	シマウマ	Zebra
+Camel	Velbloud	Cammello	верблюд	Kameli	Ġemel	Lạc đà	ஒட்டகம்	キャメル	Deva
+Monkey	Opice	Scimmia	Обезьяна	Apina	Xadina	Con khỉ	குரங்கு	モンキー	Majmun
+Crocodile	Krokodýl	Coccodrillo	Крокодил	Krokotiili	Kukkudrill	Cá sấu	முதலை	クロコダイル	Krokodil
+Elephant	Slon	Elefante	слон	Norsu	Iljunfant	Con voi	யானை	象	Slon
+Gecko	Gecko	Geco	геккон	Gecko	Gecko	con tắc kè	கெக்கோ	ヤモリ	Tropski gušter
+Giraffe	Žirafa	Giraffa	Жирафа	Kirahvi	Giraffe	Hươu cao cổ	ஒட்டகச்சிவிங்கி	キリン	Žirafa
+Gorilla	Gorila	Gorilla	горилла	Gorilla	Gorilla	Con khỉ đột	கொரில்லா	ゴリラ	Gorila
+Squirrel	Veverka	Scoiattolo	белочка	Orava	Iskojjattlu	Con sóc	அணில்	リス	Vjeverica
+Hippopotamus	Hroch	Ippopotamo	Бегемот	Virtahepo	Hippopotamus	Hà mã	நீர்யானை	カバ	Nilski konj
+Hyena	Hyena	Iena	Гиена	Hyeena	Hyena	Linh cẩu	கழுதைப்புலி	ハイエナ	Hijena
+Impala	Impala	Impala	Impala	Impala	Impala	Impala	இம்பலா	インパラ	Impala
+Jackal	Šakal	Sciacallo	шакал	Sakaali	Jackal	Chó rừng	குள்ள நரி	ジャッカル	Šakal
+Lemur	Lemur	Lemure	Лемур	puoliapina	Lemur	Vong linh	லெமூர்	キツネザル	Lemur
+Mongoose	Mongoose	Mangusta	Мангуста	Mungo	Mongoose	Mongoose	கீரிப்பிள்ளை	マングース	Mungos
+Okapi	Okapi	Okapi	Окапи	okapi	Okapi	Okapi	okapi	オカピ	Okapi
+Ostrich	Pštros	Struzzo	страус	Strutsi	Ostrich	Đà điểu	தீக்கோழி	ダチョウ	Noj
+Porcupine	Dikobraz	Porcospino	дикобраз	Piikkisika	Porċupin	Nhím	முள்ளம்பன்றி	ヤマアラシ	Dikobraz
+Rhinoceros	Nosorožec	Rinoceronte	Носорог	Sarvikuono	Rhinoceros	Tê giác	காண்டாமிருகம்	サイ	Nosorog
+Warthog	Warthog	Facocero	бородавочник	Pahkasika	Warthog	Warthog	வார்தாக்	イボイノシシ	Bradavičava svinja
+------------------------------------------------------------------------------
+Amber	Bernstein	Ámbar	琥珀色	Amber	Ambre	янтарный	ʻO Amber	アンバー	ambre
+Amethyst	Amethyst	Amatista	紫晶	Amethyst	Ametista	Аметист	ʻO Amethyst	アメジスト	Améthyste
+Aquamarine	Aquamarin	Aguamarina	藍晶	Aquamarine	Aquamarine	Аквамарин	ʻO Aquamarine	アクアマリン	Bleu vert
+Azure	Azurblau	Azur	天藍	Azure	Azure	лазурь	ʻO Azure	紺碧	Azur
+Beige	Beige	Beige	米色	Beige	Beix	Бежевый	Pila	ベージュ	Beige
+Black	Schwarz	Negro	黑色	Nhema	Negre	черный	Eleʻele	ブラック	Noir
+Blue	Blau	Azul	藍色	Bhuruu	Blau	синий	Polū	青	Bleu
+Brown	Braun	marrón	棕色	bhurawuni	Brown	коричневый	palaunu	褐色	marron
+Burgundy	Burgund	borgoña	勃艮第	Burgundy	Borgonya	Бургундия	ʻO Burgundy	ブルゴーニュ	Bourgogne
+Crimson	Crimson	carmesí	赤紅	Crimson	Carmesí	малиновый	Pākī	真紅	cramoisi
+Cyan	Cyan	Cian	青色	Cyan	Cian	Cyan	ʻO Cyan	シアン	Cyan
+Gold	Gold	Oro	金	Ndarama	Or	Золото	ʻO ke gula	ゴールド	Or
+Gray	Grau	gris	灰色	gireyi	Gris	Серый	Hinahina	グレー	gris
+Green	Grün	Verde	綠色	Girinhi	Verd	зеленый	Ōmaʻomaʻo	緑	vert
+Indigo	Indigo	Índigo	靛青	Indigo	Indigo	Индиго	ʻO Indigo	インジゴ	Indigo
+Jade	Jade	Jade	玉	Jade	Jade	нефрит	Hele	翡翠	Jade
+Lavender	Lavendel	Lavanda	薰衣草	Lavender	Lavanda	лаванда	Lavender	ラベンダー	Lavande
+Lemon	Zitrone	Limón	檸檬	Lemon	Llimona	Лимон	Lemon	レモン	citron
+Magenta	Magenta	Magenta	品紅	Magenta	Magenta	фуксин	Magenta	マゼンタ	Magenta
+Maroon	Kastanienbraun	Granate	栗色	Maroon	Marró	каштановый	ʻO Maroon	あずき色	Bordeaux
+Mauve	Mauve	Color de malva	淡紫色	Mauve	Malva	розовато-лиловый	Mauve	モーブ	Mauve
+Orange	Orange	naranja	橙子	orenji	taronja	оранжевый	alani	オレンジ	Orange
+Pink	Rosa	Rosado	粉	Pink	Rosa	розовый	Ākala	ピンク	Rose
+Purple	Lila	Púrpura	紫色	Pepuru	Porpra	Пурпурный	Poni	紫の	Violet
+Red	rot	rojo	紅色	tsvuku	Vermell	красный	ulaʻula	赤	rouge
+Scarlet	Scharlachrot	Escarlata	猩紅	Scarlet	Escarlata	алый	ʻO ka'ōuli	スカーレット	Écarlate
+Silver	Silber	Plata	銀	Sirivha	Plata	Серебряный	ʻO ke kālā	銀	argent
+Tan	Bräunen	Bronceado	黃褐色	Tan	Tan	загар	Tan	日焼け	bronzer
+Taupe	Taupe	Gris pardo	灰褐色	Taupe	Taupe	темно-серый	Taupe	トープ	Taupe
+Teal	Teal	Teal	蒂爾	Teal	Teal	чирок	Keal	ティール	Sarcelle
+Turquoise	Türkis	Turquesa	綠松石	Turquoise	Turquesa	Бирюзовый	ʻO Turquoise	ターコイズ	Turquoise
+Violet	Violett	Violeta	紫色	Violet	violeta	Виолетта	Pākeke	バイオレット	Violet
+White	Weiß	Blanco	白色	chena	Blanc	белый	keʻokeʻo	白	blanc
+Yellow	Gelb	Amarillo	黃色	Yero	Groc	желтый	Melemele	黄	Jaune
+-------------------------------------------------------------------------
+Octagon	八角形	Octogone	แปดเหลี่ยม	Achteck	Aštuonkampis	八角形	Oktagonon	Octagon	Osmiúhelník
+Heptagon	七角形	Heptagone	เจ็ดเหลี่ยม	Heptagon	Heptagonas	七邊形	Heptagon	Heptagon	Sedmiúhelník
+Hexagon	六角形	Hexagone	หกเหลี่ยม	Hexagon	Šešiakampis	六邊形	Seslatero	Hecsagon	Šestiúhelník
+Triangle	三角形	Triangle	สามเหลี่ยม	Dreieck	Trikampis	三角形	Triangulo	Triongl	Trojúhelník
+Scalene triangle	スカレントライアングル	Triangle scalène	สามเหลี่ยมสคาลีน	Ungleichseitiges Dreieck	Scalene trikampis	不等邊三角形	Scalena triangulo	Triongl Scalene	Scalene trojúhelník
+Right triangle	直角三角形	Triangle rectangle	สามเหลี่ยมมุมฉาก	Rechtwinkliges Dreieck	Taisyklingas trikampis	直角三角形	Dekstra triangulo	Triongl cywir	Pravoúhlý trojuhelník
+Parallelogram	平行四辺形	Parallélogramme	สี่เหลี่ยมด้านขนาน	Parallelogramm	Lygiagretė	平行四邊形	Paralelogramo	Paralelogram	Rovnoběžník
+Rhombus	ひし形	Rhombe	รูปสี่เหลี่ยมขนมเปียกปูน	Rhombus	Rombas	菱形	Rombo	Rhombus	Kosočtverec
+Square	平方	Carré	สี่เหลี่ยม	Quadrat	Aikštė	廣場	Kvadrato	Sgwâr	Náměstí
+Pentagon	五角形	Pentagone	รูปห้าเหลี่ยม	Pentagon	Pentagonas	五角大樓	Pentagono	Pentagon	Pentagon
+Circle	サークル	Cercle	วงกลม	Kreis	Apskritimas	圈	Rondo	Rhowch gylch	Kruh
+Oval	オーバル	ovale	รูปไข่	Oval	ovalus	橢圓	Ovala	Oval	Ovál
+Heart	心臓	Cœur	หัวใจ	Herz	Širdis	心	Koro	Calon	Srdce
+Cross	クロス	Traverser	ข้าม	Kreuz	Kirsti	交叉	Kruco	Croes	Přejít
+Arrow	矢印	Flèche	ลูกศร	Pfeil	Rodyklė	箭頭	Sago	Saeth	Šipka
+Cube	立方体	cube	ลูกบาศก์	Würfel	kubas	立方體	Kubo	Ciwb	Krychle
+Cylinder	シリンダー	Cylindre	กระบอก	Zylinder	Cilindras	圓筒	Cilindro	Silindr	Válec
+Star	星	Étoile	ดาว	Star	Žvaigždutė	星	Stelo	Seren	Hvězda
+Crescent	三日月	Croissant	เสี้ยว	Halbmond	Pusmėnulio	新月	Luno	Cilgant	Půlměsíc
+Leopard	Leopard	Leopardo	леопард	Leopardi	Leopard	Báo	சிறுத்தை	ヒョウ	Leopard
+Lynx	Rys	Lince	Рысь	Ilves	Lynx	Linh miêu	லின்க்ஸ்	リンクス	Ris
+Cheetah	Gepard	Ghepardo	гепард	Gepardi	Ċita	con báo	சீத்தா	チーター	Gepard
+Cougar	Puma	Puma	пума	puuma	Cougar	Báo sư tử	கோகர்	クーガー	kuguar
+Jaguar	Jaguár	Giaguaro	ягуар	jaguaari	Jaguar	Báo đốm	ஜாகுவார்	ジャガー	Jaguar
+Lion	Lev	Leone	лев	Leijona	Iljun	sư tử	லயன்	ライオン	Lav
+Tiger	Tygr	Tigre	тигр	Tiikeri	Tiger	con hổ	புலி	虎	Tigar
+Bison	Bison	Bisonte	бизон	biisoni	Bison	Bò rừng	பைசன்	バイソン	Bizon
+Moose	Los	alce americano	лось	Hirvi	Moose	Nai	கடமான்	ムース	Los
+Bear	Medvěd	Orso	нести	Karhu	Ibatu	Chịu	தாங்க	くま	Snositi
+Elk	Elk	Alce	лось	Hirvi	Elk	Nai sừng tấm	elk	エルク	Los
+Aardvark	Aardvark	Aardvark	трубкозуб	Maasika	Aardvark	Aardvark	Aardvark	アードヴァーク	Južnoafrički mravojed
+Addax	Addax	Addax	адда	Addax	Addax	Addax	Addax	アダックス	ADDAX
+Parrot	Papoušek	Pappagallo	Попугай	Papukaija	Pappagall	Con vẹt	கிளி	オウム	Papiga
+Baboon	Pavián	Babbuino	бабуин	Paviaani	Babun	Khỉ đầu chó	பபூன்	ヒヒ	Babun
+Fox	Liška	Volpe	Лиса	Kettu	Fox	cáo	ஃபாக்ஸ்	狐	Lisica
+Antelope	Antilopa	Antilope	антилопа	Antilooppi	Antelop	Linh dương	மான்	アンテロープ	Antilopa
+Buffalo	Buvol	bufalo	буйвол	puhveli	Buffalo	trâu	பஃபலோ	バッファロー	bizon
+Zebra	Zebra	Zebra	зебра	Seepra	Żebra	Ngựa rằn	வரிக்குதிரை	シマウマ	Zebra
+Camel	Velbloud	Cammello	верблюд	Kameli	Ġemel	Lạc đà	ஒட்டகம்	キャメル	Deva
+Monkey	Opice	Scimmia	Обезьяна	Apina	Xadina	Con khỉ	குரங்கு	モンキー	Majmun
+Crocodile	Krokodýl	Coccodrillo	Крокодил	Krokotiili	Kukkudrill	Cá sấu	முதலை	クロコダイル	Krokodil
+Elephant	Slon	Elefante	слон	Norsu	Iljunfant	Con voi	யானை	象	Slon
+Gecko	Gecko	Geco	геккон	Gecko	Gecko	con tắc kè	கெக்கோ	ヤモリ	Tropski gušter
+Giraffe	Žirafa	Giraffa	Жирафа	Kirahvi	Giraffe	Hươu cao cổ	ஒட்டகச்சிவிங்கி	キリン	Žirafa
+Gorilla	Gorila	Gorilla	горилла	Gorilla	Gorilla	Con khỉ đột	கொரில்லா	ゴリラ	Gorila
+Squirrel	Veverka	Scoiattolo	белочка	Orava	Iskojjattlu	Con sóc	அணில்	リス	Vjeverica
+Hippopotamus	Hroch	Ippopotamo	Бегемот	Virtahepo	Hippopotamus	Hà mã	நீர்யானை	カバ	Nilski konj
+Hyena	Hyena	Iena	Гиена	Hyeena	Hyena	Linh cẩu	கழுதைப்புலி	ハイエナ	Hijena
+Impala	Impala	Impala	Impala	Impala	Impala	Impala	இம்பலா	インパラ	Impala
+Jackal	Šakal	Sciacallo	шакал	Sakaali	Jackal	Chó rừng	குள்ள நரி	ジャッカル	Šakal
+Lemur	Lemur	Lemure	Лемур	puoliapina	Lemur	Vong linh	லெமூர்	キツネザル	Lemur
+Mongoose	Mongoose	Mangusta	Мангуста	Mungo	Mongoose	Mongoose	கீரிப்பிள்ளை	マングース	Mungos
+Okapi	Okapi	Okapi	Окапи	okapi	Okapi	Okapi	okapi	オカピ	Okapi
+Ostrich	Pštros	Struzzo	страус	Strutsi	Ostrich	Đà điểu	தீக்கோழி	ダチョウ	Noj
+Porcupine	Dikobraz	Porcospino	дикобраз	Piikkisika	Porċupin	Nhím	முள்ளம்பன்றி	ヤマアラシ	Dikobraz
+Rhinoceros	Nosorožec	Rinoceronte	Носорог	Sarvikuono	Rhinoceros	Tê giác	காண்டாமிருகம்	サイ	Nosorog
+Warthog	Warthog	Facocero	бородавочник	Pahkasika	Warthog	Warthog	வார்தாக்	イボイノシシ	Bradavičava svinja
