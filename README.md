@@ -45,15 +45,15 @@ The results are written to `perf-results.tsv`.
 ```
 $ head perf-results.tsv
 test	elapsed	user	system	cpu_pct	mem
-byLineInRawOut	22.78	21.86	0.87	99%	1968
-byLineInBufOut	9.66	8.75	0.88	99%	1952
-bufferedByLineInBufOut	6.89	6.43	0.44	99%	2096
-iopipeByLineInRawOut	21.46	20.80	0.56	99%	1940
-iopipeByLineInBufOut	3.55	3.05	0.48	99%	1968
-byLineInRawOut	22.52	21.63	0.86	99%	1952
-byLineInBufOut	9.50	8.62	0.87	99%	1940
-bufferedByLineInBufOut	6.85	6.40	0.43	99%	2084
-iopipeByLineInRawOut	20.41	19.88	0.50	99%	1952
+byLineInRawOut	22.50	21.63	0.84	99%	1832
+byLineInBufOut	9.32	8.46	0.85	99%	1816
+bufferedByLineInBufOut	6.41	5.98	0.42	99%	1976
+iopipeByLineInRawOut	19.74	19.26	0.47	99%	1816
+iopipeByLineInBufOut	2.95	2.48	0.46	99%	1836
+byLineInRawOut	22.39	21.53	0.84	99%	1800
+byLineInBufOut	9.31	8.45	0.85	99%	1828
+bufferedByLineInBufOut	6.41	5.98	0.42	99%	1976
+iopipeByLineInRawOut	19.86	19.35	0.48	99%	1816
 ```
 
 Median timing values can be calculated using [tsv-utils](https://github.com/eBay/tsv-utils) as follows:
@@ -61,9 +61,9 @@ Median timing values can be calculated using [tsv-utils](https://github.com/eBay
 ```
 $ tsv-summarize -H --group-by 1 --median 2-4,6 perf-results.tsv | tsv-pretty -p 2
 test                    elapsed_median  user_median  system_median  mem_median
-byLineInRawOut                   22.53        21.64           0.86        1940
-byLineInBufOut                    9.49         8.61           0.87        1952
-bufferedByLineInBufOut            6.85         6.40           0.44        2084
-iopipeByLineInRawOut             20.45        19.92           0.50        1952
-iopipeByLineInBufOut              3.55         3.05           0.48        1956
+byLineInRawOut                   22.41        21.56           0.84        1812
+byLineInBufOut                    9.32         8.45           0.85        1816
+bufferedByLineInBufOut            6.41         5.98           0.42        1976
+iopipeByLineInRawOut             19.75        19.26           0.47        1828
+iopipeByLineInBufOut              2.96         2.49           0.46        1836
 ```
