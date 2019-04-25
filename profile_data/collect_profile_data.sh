@@ -31,7 +31,7 @@ if [ -e app.profdata ]; then
    rm -f app.profdata
 fi
 
-for t in byLineInRawOut byLineInBufOut bufferedByLineInBufOut iopipeByLineInRawOut iopipeByLineInBufOut iopipeByLineInIOOut byChunkInBufOut byChunkInRawOut byChunkInByLineBufOut; do \
+for t in byLineInRawOut byLineInBufOut bufferedByLineInBufOut iopipeByLineInRawOut iopipeByLineInBufOut iopipeByLineInIOOut iopipeByLineInBufIOOut byChunkInBufOut byChunkInRawOut byChunkInByLineBufOut; do \
     $prog -t $t profile_data_1.txt > /dev/null;
     cat profile_data_1.txt | $prog -t $t > /dev/null;
 done;
