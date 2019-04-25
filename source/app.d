@@ -39,6 +39,10 @@ Tests available (with input and output methods):
   - Input:  iopipe.byLine
   - Output: std.io.file.File.write
 
+* iopipeByLineInBufIOOut
+  - Input:  iopipe.byLine
+  - Output: std.io.file.File.write (buffered)
+
 * byChunkInRawOut
   - Input:  std.stdio.File.byChunk
   - Output: std.stdio.File.rawWrite
@@ -63,6 +67,7 @@ enum DCatTest
      iopipeByLineInRawOut,
      iopipeByLineInBufOut,
      iopipeByLineInIOOut,
+     iopipeByLineInBufIOOut,
      byChunkInBufOut,
      byChunkInRawOut,
      byChunkInByLineBufOut,
@@ -190,6 +195,10 @@ void dcat(in CmdOptions cmdopt, in string[] inputFiles)
 
     case DCatTest.iopipeByLineInIOOut:
         useIopipeByLineInIOOut(cmdopt, filename);
+        break;
+
+    case DCatTest.iopipeByLineInBufIOOut:
+        useIopipeByLineInBufIOOut(cmdopt, filename);
         break;
 
     case DCatTest.byChunkInRawOut:
@@ -320,7 +329,7 @@ void useIopipeByLineInIOOut(CmdOptions cmdopt, string filename)
          * native handles. See: https://github.com/MartinNowak/io/issues/14
          */
         auto inputStream = (filename == "-") ? 0.File().refCounted : filename.File().refCounted;
-        auto ioStdOut = 1.File().refCounted;
+        auto ioStdout = 1.File().refCounted;
     }
     else
     {
@@ -330,7 +339,35 @@ void useIopipeByLineInIOOut(CmdOptions cmdopt, string filename)
 
     foreach (ref line; inputStream.bufd.assumeText.byLineRange)
     {
-        ioStdOut.write(cast(ubyte[])line, cast(ubyte[])"\n");
+        ioStdout.write(cast(ubyte[])line, cast(ubyte[])"\n");
+    }
+}
+
+void useIopipeByLineInBufIOOut(CmdOptions cmdopt, string filename)
+{
+    import iopipe.textpipe;
+    import iopipe.bufpipe;
+    import std.io;
+    import std.typecons : refCounted;
+
+    version(Posix)
+    {
+        /* At present (std.io 0.2.2) supports access to stdin/stdout/stderr only via
+         * native handles. See: https://github.com/MartinNowak/io/issues/14
+         */
+        auto inputStream = (filename == "-") ? 0.File().refCounted : filename.File().refCounted;
+        auto outputStream = BufferedIOStdout!ubyte();
+    }
+    else
+    {
+        import std.exception;
+        throw new Exception("useIoPipeByLineInIOOut is available only on Posix.");
+    }
+
+    foreach (ref line; inputStream.bufd.assumeText.byLineRange)
+    {
+        outputStream.put(cast(ubyte[])line);
+        outputStream.put(cast(ubyte)'\n');
     }
 }
 
@@ -375,5 +412,72 @@ void useByChunkInByLineBufOut(OutputRange)(CmdOptions cmdopt, string filename, a
             else outputStream.put('\n');
             outputStream.put(line);
         }
+    }
+}
+
+/* Simple buffering of standard output using std.io. */
+struct BufferedIOStdout(C = char)
+if (is(C == char) || is(C == ubyte))
+{
+    import std.array : appender;
+    import std.io;
+
+    private enum _reserveSize = 11264;
+    private enum _flushSize = 10240;
+
+    private File _ioStdout;
+    private auto _buffer = appender!(C[]);
+
+    static BufferedIOStdout opCall()
+    {
+        BufferedIOStdout x;
+
+        x._ioStdout = 1.File();
+        x._buffer.reserve(_reserveSize);
+        return x;
+    }
+
+    ~this()
+    {
+        flush();
+    }
+
+    private void flush()
+    {
+        if (_buffer.data.length > 0)
+        {
+            _ioStdout.write(_buffer.data);
+            _buffer.clear;
+        }
+    }
+
+    private void append(T)(T stuff)
+    {
+        import std.range : rangePut = put;
+        rangePut(_buffer, stuff);
+    }
+
+    void put(T)(T stuff)
+    {
+          import std.traits;
+
+          static if (isSomeString!T || is(T == ubyte[]))
+          {
+              if (_buffer.data.length + stuff.length > _reserveSize)
+              {
+                  flush;
+                  _ioStdout.write(stuff);
+              }
+              else
+              {
+                  append(stuff);
+                  if (_buffer.data.length >= _flushSize) flush;
+              }
+          }
+          else
+          {
+              append(stuff);
+              if (_buffer.data.length >= _flushSize) flush;
+          }
     }
 }

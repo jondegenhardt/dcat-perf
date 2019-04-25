@@ -26,7 +26,7 @@ Some benchmarks generated with this tool can be found on the [issues](https://gi
 
 The example below performs runs on the google one-gram file for the letter 's', available from the [Google Books ngram datasets](http://storage.googleapis.com/books/ngrams/books/datasetsv2.html). It has been downloaded as `googlebooks-eng-all-1gram-20120701-s.tsv`. The command below was run on MacOS and uses the GNU versions of `time` and `wc`, which are installed as `gtime` and `gwc` by Homebrew.
 
-This command runs several of the available `dcat` tests five time each and writes the results to the file perf-results.tsv. The `g|wc` command is used to load the file into disk cache so every run starts from the same basis with respect to caches.
+This command runs several of the available `dcat` tests five time each and writes the results to the file perf-results.tsv. The [g]wc` command is used to load the file into disk cache so every run starts from the same basis with respect to caches.
 
 ```
 $ echo $'test\telapsed\tuser\tsystem\tcpu_pct\tmem' > perf-results.tsv; \
