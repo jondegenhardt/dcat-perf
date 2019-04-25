@@ -1,0 +1,14 @@
+matrix:
+  include:
+    - os: osx
+      osx_image: xcode10.2
+      group: travis_latest
+      language: d
+      d: ldc
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      d: ldc
+script:
+- dub build --compiler=ldc2 --build=release-lto-pgo --combined
