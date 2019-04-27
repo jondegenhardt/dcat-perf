@@ -366,8 +366,8 @@ void useIopipeByLineInBufIOOut(CmdOptions cmdopt, string filename)
 
     foreach (ref line; inputStream.bufd.assumeText.byLineRange)
     {
-        outputStream.put(cast(ubyte[])line);
-        outputStream.put(cast(ubyte)'\n');
+        outputStream.put(line);
+        outputStream.put('\n');
     }
 }
 
@@ -451,22 +451,48 @@ if (is(C == char) || is(C == ubyte))
         }
     }
 
-    private void append(T)(T stuff)
+    private void appendFlush(T)(auto ref T stuff)
+    if (is(T : char[]) || is(T : ubyte[]))
     {
-        import std.range : rangePut = put;
-        rangePut(_buffer, stuff);
+        if (_buffer.data.length > 0)
+        {
+            _ioStdout.write(cast(ubyte[]) _buffer.data, cast(ubyte[]) stuff);
+            _buffer.clear;
+        }
+        else
+        {
+            _ioStdout.write(cast(ubyte[]) stuff);
+        }
     }
 
-    void put(T)(T stuff)
+    private void append(T)(auto ref T stuff)
+    {
+        import std.range : rangePut = put;
+
+        static if (is(T : char[]))
+        {
+            rangePut(_buffer, cast(ubyte[]) stuff);
+        }
+        else static if (is(T == char))
+        {
+            rangePut(_buffer, cast(ubyte) stuff);
+        }
+        else
+        {
+            rangePut(_buffer, stuff);
+        }
+    }
+
+    void put(T)(auto ref T stuff)
+    if (is(T : char[]) || is(T : ubyte[]) || is(T : char) || is(T : ubyte))
     {
           import std.traits;
 
-          static if (isSomeString!T || is(T == ubyte[]))
+          static if (is(T : char[]) || is(T : ubyte[]))
           {
               if (_buffer.data.length + stuff.length > _reserveSize)
               {
-                  flush;
-                  _ioStdout.write(stuff);
+                  appendFlush(stuff);
               }
               else
               {
