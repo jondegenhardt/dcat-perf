@@ -40,6 +40,11 @@
         "pgo-profile" : {
             "buildOptions" : ["releaseMode", "optimize",  "inline", "noBoundsCheck" ],
             "dflags-ldc" : ["-d-version=LDC_PROFILE", "-fprofile-instr-generate=profile.%p.raw", "-flto=thin", "-defaultlib=phobos2-ldc-lto,druntime-ldc-lto", "-singleobj" ]
+        },
+        "cli-test" : {
+            "postBuildCommands" : [
+                "for t in byLineInBufOut byLineInRawOut; do ./bin/dcat -t $$t ./profile_data/profile_data_1.txt | cmp --quiet - ./profile_data/profile_data_1.txt; if [ $? -eq 0 ]; then echo \"Test $$t passed.\"; else echo \"Test $$t failed.\"; exit 1; fi; done"
+            ]
         }
     },
     "toolchainRequirements": {
