@@ -80,7 +80,8 @@ struct CmdOptions
     enum defaultHeaderString = "line";
 
     string programName;
-    DCatTest dcatTest;
+    DCatTest dcatTest = DCatTest.byLineInRawOut;  // --t|test
+    bool namesWanted = false;                     // --n|names
 
     /* Returns a tuple. First value is true if command line arguments were successfully
      * processed and execution should continue, or false if an error occurred or the user
@@ -105,8 +106,8 @@ struct CmdOptions
             auto r = getopt(
                 cmdArgs,
                 std.getopt.config.caseSensitive,
-                std.getopt.config.required,
                 "t|test", testOptionDescription, &dcatTest,
+                "n|names", "Returns the list of test names.", &namesWanted,
             );
 
             if (r.helpWanted)
@@ -114,6 +115,13 @@ struct CmdOptions
                 defaultGetoptPrinter(helpText, r.options);
                 return tuple(false, 0);
             }
+            else if (namesWanted)
+            {
+                writefln("%(%s %)", dcatTestNames);
+                return tuple(false, 0);
+            }
+
+
         }
         catch (Exception e)
         {
