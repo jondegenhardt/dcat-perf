@@ -11,4 +11,4 @@ matrix:
       language: d
       d: ldc
 script:
-- dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test
+- dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined
