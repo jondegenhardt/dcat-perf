@@ -43,7 +43,7 @@
         },
         "cli-test" : {
             "postBuildCommands" : [
-                "for t in byLineInBufOut byLineInRawOut; do ./bin/dcat -t $$t ./profile_data/profile_data_1.txt | cmp --quiet - ./profile_data/profile_data_1.txt; if [ $? -eq 0 ]; then echo \"Test $$t passed.\"; else echo \"Test $$t failed.\"; exit 1; fi; done"
+                "for t in `./bin/dcat --names`; do ./bin/dcat -t $$t ./profile_data/profile_data_1.txt | cmp --quiet - ./profile_data/profile_data_1.txt; if [ $? -eq 0 ]; then echo \"Test $$t passed.\"; else echo \"Test $$t failed.\"; exit 1; fi; done"
             ]
         }
     },
