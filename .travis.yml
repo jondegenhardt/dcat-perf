@@ -16,34 +16,49 @@ matrix:
       osx_image: xcode10.2
       group: travis_latest
       language: d
+      d: dmd
+      env: CLI_TEST=1
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: CLI_TEST=1
+      d: dmd
+    - os: osx
+      osx_image: xcode10.2
+      group: travis_latest
+      language: d
       d: ldc-beta
       env: LTO_PGO=1
-      #if: type IN (cron)
+      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       d: ldc-beta
       env: LTO_PGO=1
-      #if: type IN (cron)
+      if: type IN (cron)
     - os: osx
       osx_image: xcode10.2
       group: travis_latest
       language: d
       d: ldc-latest-ci
       env: LTO=1
-      #if: type IN (cron)
+      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       d: ldc-latest-ci
       env: LTO=1
-      #if: type IN (cron)
+      if: type IN (cron)
 script:
 - if [[ "$LTO_PGO" == "1" ]]; then
     dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined;
   fi
 - if [[ "$LTO" == "1" ]]; then
     dub build --compiler=ldc2 --build=release-lto --combined && dub build --build=cli-test --combined;
+  fi
+- if [[ "$CLI_TEST" == "1" ]]; then
+    dub build --build=cli-test --combined;
   fi
