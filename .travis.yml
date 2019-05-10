@@ -42,8 +42,8 @@ matrix:
       #if: type IN (cron)
 script:
 - if [[ "$LTO_PGO" == "1" ]]; then
-    dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined
+    dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined;
   fi
 - if [[ "$LTO" == "1" ]]; then
-    dub build --compiler=ldc2 --build=release-lto --combined && dub build --build=cli-test --combined
+    dub build --compiler=ldc2 --build=release-lto --combined && dub build --build=cli-test --combined;
   fi
