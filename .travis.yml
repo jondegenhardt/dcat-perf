@@ -4,35 +4,61 @@ matrix:
       osx_image: xcode10.2
       group: travis_latest
       language: d
-      d: ldc
+      d: ldc,dub-1.14.0
+      env: LTO_PGO=1
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
-      d: ldc
+      env: LTO_PGO=1
+      d: ldc,dub-1.14.0
     - os: osx
       osx_image: xcode10.2
       group: travis_latest
       language: d
-      d: ldc-beta
+      d: dmd,dub-1.14.0
+      env: CLI_TEST=1
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: CLI_TEST=1
+      d: dmd,dub-1.14.0
+    - os: osx
+      osx_image: xcode10.2
+      group: travis_latest
+      language: d
+      d: ldc-beta,dub-1.14.0
+      env: LTO_PGO=1
       if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
-      d: ldc-beta
+      d: ldc-beta,dub-1.14.0
+      env: LTO_PGO=1
       if: type IN (cron)
     - os: osx
       osx_image: xcode10.2
       group: travis_latest
       language: d
-      d: ldc-latest-ci
+      d: ldc-latest-ci,dub-1.14.0
+      env: LTO=1
       if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
-      d: ldc-latest-ci
+      d: ldc-latest-ci,dub-1.14.0
+      env: LTO=1
       if: type IN (cron)
 script:
-- dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined
+- if [[ "$LTO_PGO" == "1" ]]; then
+    dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined;
+  fi
+- if [[ "$LTO" == "1" ]]; then
+    dub build --compiler=ldc2 --build=release-lto --combined && dub build --build=cli-test --combined;
+  fi
+- if [[ "$CLI_TEST" == "1" ]]; then
+    dub build --build=cli-test --combined;
+  fi
