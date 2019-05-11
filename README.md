@@ -14,6 +14,8 @@ $ dub build --compiler=ldc2 --build=release-lto --combined
 
 The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the [code](source/app.d#L11).
 
+**Note**: _The dub.json file works with dub-1.14.0 but not dub-1.15.0 (dmd-2.086). It can be fixed for dub-1.15.0 by changing `$?` to `$$?` in the `dub.json` file, in the `cli-test` section. See [dub issue #1709](https://github.com/dlang/dub/issues/1709)._
+
 Tests available are based on components from:
 * [D Standard Library](https://dlang.org/phobos/index.html)
 * Steven Schveighoffer's [iopipe](https://github.com/schveiguy/iopipe) library
