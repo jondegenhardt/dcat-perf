@@ -14,7 +14,7 @@
     "configurations" : [
         {
             "name" : "default",
-            "targetType" : "executable",
+            "targetType" : "executable"
         },
         {
             "name" : "pgo-profile",
