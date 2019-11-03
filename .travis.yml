@@ -1,7 +1,31 @@
 matrix:
   include:
     - os: osx
-      osx_image: xcode10.2
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: ldc-1.17.0,dub-1.14.0
+      env: LTO_PGO=1
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO_PGO=1
+      d: ldc-1.17.0,dub-1.14.0
+    - os: osx
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: dmd-2.087.0,dub-1.14.0
+      env: CLI_TEST=1
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: CLI_TEST=1
+      d: dmd-2.087.0,dub-1.14.0
+    - os: osx
+      osx_image: xcode11.1
       group: travis_latest
       language: d
       d: ldc,dub-1.14.0
@@ -13,7 +37,7 @@ matrix:
       env: LTO_PGO=1
       d: ldc,dub-1.14.0
     - os: osx
-      osx_image: xcode10.2
+      osx_image: xcode11.1
       group: travis_latest
       language: d
       d: dmd,dub-1.14.0
@@ -25,7 +49,7 @@ matrix:
       env: CLI_TEST=1
       d: dmd,dub-1.14.0
     - os: osx
-      osx_image: xcode10.2
+      osx_image: xcode11.1
       group: travis_latest
       language: d
       d: ldc-beta,dub-1.14.0
@@ -39,7 +63,7 @@ matrix:
       env: LTO_PGO=1
       if: type IN (cron)
     - os: osx
-      osx_image: xcode10.2
+      osx_image: xcode11.1
       group: travis_latest
       language: d
       d: ldc-latest-ci,dub-1.14.0
