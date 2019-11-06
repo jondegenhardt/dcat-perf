@@ -5,6 +5,7 @@ matrix:
   # - Linux, dmd-2.089.0    (Fails with io-0.2.3)
   # - Linux, dmd (latest)
   # - Linux, ldc-1.17.0, lto/pgo
+  # - Linux, ldc-1.18.0, lto     (LTO only because LTO/PGO fails)
   # - Linux, ldc-1.18.0, lto/pgo
   # - Linux, ldc (latest), lto/pgo
   # - OS X, dmd-2.088.1
@@ -47,6 +48,12 @@ matrix:
       language: d
       env: LTO_PGO=1
       d: ldc-1.17.0,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO=1
+      d: ldc-1.18.0,dub-1.14.0
     - os: linux
       dist: xenial
       group: travis_latest
