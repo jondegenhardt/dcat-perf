@@ -1,62 +1,104 @@
 matrix:
+  # Current tests
+  # - Linux, dmd-2.087.0    (Last version to succeed with io-0.2.2)
+  # - Linux, dmd-2.088.1    (Last version to succeed with io-0.2.3)
+  # - Linux, dmd-2.089.0    (Fails with io-0.2.3)
+  # - Linux, dmd (latest)
+  # - Linux, ldc-1.17.0, lto/pgo
+  # - Linux, ldc-1.18.0          (Default because LTO only fails)
+  # - Linux, ldc-1.18.0, lto     (LTO only because LTO/PGO fails)
+  # - Linux, ldc-1.18.0, lto/pgo
+  # - Linux, ldc (latest), lto/pgo
+  # - OS X, dmd-2.088.1
+  # - OS X, dmd (latest)
+  # - OS X,  ldc-1.18.0, lto/pgo
+  # - OS X,  ldc (latest) lto/pgo
+  # Additional cron tests
+  # - OS X, ldc-beta lto/pgo
+  # - OS X, ldc-latest-ci lto
+  # - Linux, ldc-beta lto/pgo
+  # - Linux, ldc-latest-ci lto
   include:
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc-1.17.0,dub-1.14.0
-      env: LTO_PGO=1
-    - os: linux
-      dist: xenial
-      group: travis_latest
-      language: d
-      env: LTO_PGO=1
-      d: ldc-1.17.0,dub-1.14.0
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: dmd-2.087.0,dub-1.14.0
-      env: CLI_TEST=1
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       env: CLI_TEST=1
       d: dmd-2.087.0,dub-1.14.0
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc,dub-1.14.0
-      env: LTO_PGO=1
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
-      env: LTO_PGO=1
-      d: ldc,dub-1.14.0
-    - os: osx
-      osx_image: xcode11.1
+      env: CLI_TEST=1
+      d: dmd-2.088.1,dub-1.14.0
+    - os: linux
+      dist: xenial
       group: travis_latest
       language: d
-      d: dmd,dub-1.14.0
       env: CLI_TEST=1
+      d: dmd-2.089.0,dub-1.14.0
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       env: CLI_TEST=1
       d: dmd,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO_PGO=1
+      d: ldc-1.17.0,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: CLI_TEST=1
+      d: ldc-1.18.0,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO=1
+      d: ldc-1.18.0,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO_PGO=1
+      d: ldc-1.18.0,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO_PGO=1
+      d: ldc,dub-1.14.0
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
       language: d
-      d: ldc-beta,dub-1.14.0
+      d: dmd-2.088.1,dub-1.14.0
+      env: CLI_TEST=1
+    - os: osx
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: dmd,dub-1.14.0
+      env: CLI_TEST=1
+    - os: osx
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: ldc-1.18.0,dub-1.14.0
       env: LTO_PGO=1
-      if: type IN (cron)
-    - os: linux
-      dist: xenial
+    - os: osx
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: ldc,dub-1.14.0
+      env: LTO_PGO=1
+    - os: osx
+      osx_image: xcode11.1
       group: travis_latest
       language: d
       d: ldc-beta,dub-1.14.0
@@ -68,6 +110,13 @@ matrix:
       language: d
       d: ldc-latest-ci,dub-1.14.0
       env: LTO=1
+      if: type IN (cron)
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      d: ldc-beta,dub-1.14.0
+      env: LTO_PGO=1
       if: type IN (cron)
     - os: linux
       dist: xenial
