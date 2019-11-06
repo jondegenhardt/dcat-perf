@@ -23,7 +23,22 @@ matrix:
       group: travis_latest
       language: d
       env: CLI_TEST=1
+      # Last compiler version to succeed with io-0.2.2
       d: dmd-2.087.0,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: CLI_TEST=1
+      # Last compiler version to succeed with io-0.2.3
+      d: dmd-2.088.1,dub-1.14.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: CLI_TEST=1
+      # Fails with io-0.2.3
+      d: dmd-2.089.0,dub-1.14.0
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
