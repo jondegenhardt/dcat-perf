@@ -16,6 +16,7 @@ The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of te
 
 **Build Notes**:
 * The dub.json file works with dub-1.15.0 and later but not dub-1.14.0 and earlier. To use with dub-1.14.0 changing `$$?` to `$?` in the `dub.json` file, in the `cli-test` section. See [dub issue #1709](https://github.com/dlang/dub/issues/1709).
+* dub packaged with dmd-2.089.x and earlier has intermittent failures on travis-ci due to stack overflows. See: [druntime PR #2904](https://github.com/dlang/druntime/pull/2904). These issues are addressed in dmd-2.090.0 and ldc-1.20.0.
 * This project does not build with dmd-2.088.0. This is due to an issue in the [io package version 0.2.2](https://github.com/MartinNowak/io) library triggered by regression in DMD. See [druntime PR #2853](https://github.com/dlang/druntime/pull/2853). Other compiler versions are fine.
 
 Tests available are based on components from:

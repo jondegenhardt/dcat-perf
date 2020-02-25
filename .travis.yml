@@ -1,17 +1,14 @@
 matrix:
   # Current tests
-  # - Linux, dmd-2.087.0    (Last version to succeed with io-0.2.2)
-  # - Linux, dmd-2.088.1    (Last version to succeed with io-0.2.3)
-  # - Linux, dmd-2.089.0    (Fails with io-0.2.3)
+  # - Linux, dmd-2.090.1
   # - Linux, dmd (latest)
-  # - Linux, ldc-1.17.0, lto/pgo
-  # - Linux, ldc-1.18.0          (Default because LTO only fails)
-  # - Linux, ldc-1.18.0, lto     (LTO only because LTO/PGO fails)
-  # - Linux, ldc-1.18.0, lto/pgo
+  # - Linux, ldc-1.20.0, lto/pgo
+  # - Linux, ldc-1.20.0          (Default because LTO only fails)
+  # - Linux, ldc-1.20.0, lto     (LTO only because LTO/PGO fails)
   # - Linux, ldc (latest), lto/pgo
-  # - OS X, dmd-2.088.1
+  # - OS X, dmd-2.090.1
   # - OS X, dmd (latest)
-  # - OS X,  ldc-1.18.0, lto/pgo
+  # - OS X,  ldc-1.20.0, lto/pgo
   # - OS X,  ldc (latest) lto/pgo
   # Additional cron tests
   # - OS X, ldc-beta lto/pgo
@@ -24,19 +21,7 @@ matrix:
       group: travis_latest
       language: d
       env: CLI_TEST=1
-      d: dmd-2.087.0
-    - os: linux
-      dist: xenial
-      group: travis_latest
-      language: d
-      env: CLI_TEST=1
-      d: dmd-2.088.1
-    - os: linux
-      dist: xenial
-      group: travis_latest
-      language: d
-      env: CLI_TEST=1
-      d: dmd-2.089.1
+      d: dmd-2.090.1
     - os: linux
       dist: xenial
       group: travis_latest
@@ -48,25 +33,19 @@ matrix:
       group: travis_latest
       language: d
       env: LTO_PGO=1
-      d: ldc-1.17.0
+      d: ldc-1.20.0
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       env: CLI_TEST=1
-      d: ldc-1.18.0
+      d: ldc-1.20.0
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       env: LTO=1
-      d: ldc-1.18.0
-    - os: linux
-      dist: xenial
-      group: travis_latest
-      language: d
-      env: LTO_PGO=1
-      d: ldc-1.18.0
+      d: ldc-1.20.0
     - os: linux
       dist: xenial
       group: travis_latest
@@ -77,7 +56,7 @@ matrix:
       osx_image: xcode11.1
       group: travis_latest
       language: d
-      d: dmd-2.088.1
+      d: dmd-2.090.1
       env: CLI_TEST=1
     - os: osx
       osx_image: xcode11.1
@@ -89,7 +68,7 @@ matrix:
       osx_image: xcode11.1
       group: travis_latest
       language: d
-      d: ldc-1.18.0
+      d: ldc-1.20.0
       env: LTO_PGO=1
     - os: osx
       osx_image: xcode11.1
