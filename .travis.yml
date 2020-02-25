@@ -28,12 +28,13 @@ matrix:
       language: d
       env: CLI_TEST=1
       d: dmd
-    - os: linux
-      dist: xenial
-      group: travis_latest
-      language: d
-      env: LTO_PGO=1
-      d: ldc-1.20.0
+#    - os: linux
+#      >>> LTO_PGO fails with ldc-1.20.0
+#      dist: xenial
+#      group: travis_latest
+#      language: d
+#      env: LTO_PGO=1
+#      d: ldc-1.20.0
     - os: linux
       dist: xenial
       group: travis_latest
@@ -46,12 +47,13 @@ matrix:
       language: d
       env: LTO=1
       d: ldc-1.20.0
-    - os: linux
-      dist: xenial
-      group: travis_latest
-      language: d
-      env: LTO_PGO=1
-      d: ldc
+#    - os: linux
+#      >>> LTO_PGO fails with ldc-1.20.0
+#      dist: xenial
+#      group: travis_latest
+#      language: d
+#      env: LTO_PGO=1
+#      d: ldc
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
@@ -64,25 +66,27 @@ matrix:
       language: d
       d: dmd
       env: CLI_TEST=1
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc-1.20.0
-      env: LTO_PGO=1
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc
-      env: LTO_PGO=1
+#    - os: osx
+#      >>> LTO_PGO fails with ldc-1.20.0
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: ldc-1.20.0
+#      env: LTO_PGO=1
+#    - os: osx
+#      >>> LTO_PGO fails with ldc-1.20.0
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: ldc
+#      env: LTO_PGO=1
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
       language: d
       d: ldc-beta
       env: LTO_PGO=1
-      if: type IN (cron)
+#      if: type IN (cron)
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
@@ -96,7 +100,7 @@ matrix:
       language: d
       d: ldc-beta
       env: LTO_PGO=1
-      if: type IN (cron)
+#      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
