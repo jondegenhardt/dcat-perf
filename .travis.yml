@@ -3,8 +3,8 @@ matrix:
   # - Linux, dmd-2.090.1
   # - Linux, dmd (latest)
   # - Linux, ldc-1.20.0, lto/pgo
-  # - Linux, ldc-1.20.0          (Default because LTO only fails)
-  # - Linux, ldc-1.20.0, lto     (LTO only because LTO/PGO fails)
+  # - Linux, ldc-1.20.0
+  # - Linux, ldc-1.20.0, lto
   # - Linux, ldc (latest), lto/pgo
   # - OS X, dmd-2.090.1
   # - OS X, dmd (latest)
@@ -89,7 +89,7 @@ matrix:
       language: d
       d: ldc-latest-ci
       env: LTO=1
-      if: type IN (cron)
+#      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
@@ -103,7 +103,7 @@ matrix:
       language: d
       d: ldc-latest-ci
       env: LTO=1
-      if: type IN (cron)
+#      if: type IN (cron)
 script:
 - if [[ "$LTO_PGO" == "1" ]]; then
     dub build --compiler=ldc2 --build=release-lto-pgo --build-mode=allAtOnce --combined && dub build --build=cli-test --combined;
