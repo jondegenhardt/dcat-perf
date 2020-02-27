@@ -82,28 +82,28 @@ matrix:
       language: d
       d: ldc-beta
       env: LTO_PGO=1
-#      if: type IN (cron)
+      if: type IN (cron)
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
       language: d
       d: ldc-latest-ci
       env: LTO=1
-#      if: type IN (cron)
+      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       d: ldc-beta
       env: LTO_PGO=1
-#      if: type IN (cron)
+      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
       language: d
       d: ldc-latest-ci
       env: LTO=1
-#      if: type IN (cron)
+      if: type IN (cron)
 script:
 - if [[ "$LTO_PGO" == "1" ]]; then
     dub build --compiler=ldc2 --build=release-lto-pgo --build-mode=allAtOnce --combined && dub build --build=cli-test --combined;
