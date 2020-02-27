@@ -34,7 +34,7 @@
             "buildOptions" : ["releaseMode", "optimize",  "inline", "noBoundsCheck" ],
             "dflags-ldc" : ["-fprofile-instr-use=profile_data/app.profdata", "-flto=thin", "-defaultlib=phobos2-ldc-lto,druntime-ldc-lto", "-singleobj" ],
             "preBuildCommands" : [
-                "arg1=\"\" && if [ \"$$DUB_COMBINED\" = \"TRUE\" ]; then arg1=\"--combined\"; fi && arg2=\"\" && if [ \"$$DUB_FORCE\" = \"TRUE\" ]; then arg2=\"--force\"; fi && $$DUB_EXE build --config=pgo-profile --build=pgo-profile $$arg1 $$arg2"
+                "arg1=\"\" && if [ \"$$DUB_COMBINED\" = \"TRUE\" ]; then arg1=\"--combined\"; fi && arg2=\"\" && if [ \"$$DUB_FORCE\" = \"TRUE\" ]; then arg2=\"--force\"; fi && $$DUB_EXE build --config=pgo-profile --build=pgo-profile --build-mode=allAtOnce $$arg1 $$arg2"
                 ]
         },
         "pgo-profile" : {

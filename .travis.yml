@@ -28,13 +28,12 @@ matrix:
       language: d
       env: CLI_TEST=1
       d: dmd
-#    - os: linux
-#      >>> LTO_PGO fails with ldc-1.20.0
-#      dist: xenial
-#      group: travis_latest
-#      language: d
-#      env: LTO_PGO=1
-#      d: ldc-1.20.0
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO_PGO=1
+      d: ldc-1.20.0
     - os: linux
       dist: xenial
       group: travis_latest
@@ -47,13 +46,12 @@ matrix:
       language: d
       env: LTO=1
       d: ldc-1.20.0
-#    - os: linux
-#      >>> LTO_PGO fails with ldc-1.20.0
-#      dist: xenial
-#      group: travis_latest
-#      language: d
-#      env: LTO_PGO=1
-#      d: ldc
+    - os: linux
+      dist: xenial
+      group: travis_latest
+      language: d
+      env: LTO_PGO=1
+      d: ldc
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
@@ -66,20 +64,18 @@ matrix:
       language: d
       d: dmd
       env: CLI_TEST=1
-#    - os: osx
-#      >>> LTO_PGO fails with ldc-1.20.0
-#      osx_image: xcode11.1
-#      group: travis_latest
-#      language: d
-#      d: ldc-1.20.0
-#      env: LTO_PGO=1
-#    - os: osx
-#      >>> LTO_PGO fails with ldc-1.20.0
-#      osx_image: xcode11.1
-#      group: travis_latest
-#      language: d
-#      d: ldc
-#      env: LTO_PGO=1
+    - os: osx
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: ldc-1.20.0
+      env: LTO_PGO=1
+    - os: osx
+      osx_image: xcode11.1
+      group: travis_latest
+      language: d
+      d: ldc
+      env: LTO_PGO=1
     - os: osx
       osx_image: xcode11.1
       group: travis_latest
@@ -110,10 +106,10 @@ matrix:
       if: type IN (cron)
 script:
 - if [[ "$LTO_PGO" == "1" ]]; then
-    dub build --compiler=ldc2 --build=release-lto-pgo --combined && dub build --build=cli-test --combined;
+    dub build --compiler=ldc2 --build=release-lto-pgo --build-mode=allAtOnce --combined && dub build --build=cli-test --combined;
   fi
 - if [[ "$LTO" == "1" ]]; then
-    dub build --compiler=ldc2 --build=release-lto --combined && dub build --build=cli-test --combined;
+    dub build --compiler=ldc2 --build=release-lto --build-mode=allAtOnce --combined && dub build --build=cli-test --combined;
   fi
 - if [[ "$CLI_TEST" == "1" ]]; then
     dub build --build=cli-test --combined;

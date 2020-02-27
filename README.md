@@ -4,12 +4,12 @@
 
 Clone this repo and build with LDC using the command:
 ```
-$ dub build --compiler=ldc2 --build=release-lto-pgo --combined
+$ dub build --compiler=ldc2 --build=release-lto-pgo --build-mode=allAtOnce --combined
 ```
 
 The above builds with LTO and PGO. To skip PGO and use LTO only:
 ```
-$ dub build --compiler=ldc2 --build=release-lto --combined
+$ dub build --compiler=ldc2 --build=release-lto --build-mode=allAtOnce --combined
 ```
 
 The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the [code](source/app.d#L11).
