@@ -4,18 +4,19 @@
 
 Clone this repo and build with LDC using the command:
 ```
-$ dub build --compiler=ldc2 --build=release-lto-pgo --combined
+$ dub build --compiler=ldc2 --build=release-lto-pgo --build-mode=allAtOnce --combined
 ```
 
 The above builds with LTO and PGO. To skip PGO and use LTO only:
 ```
-$ dub build --compiler=ldc2 --build=release-lto --combined
+$ dub build --compiler=ldc2 --build=release-lto --build-mode=allAtOnce --combined
 ```
 
 The executable is written to `./bin/dcat`. Run `dcat --help` to see a list of tests available, or simply look at the [code](source/app.d#L11).
 
 **Build Notes**:
-* The dub.json file works with dub-1.14.0 but not dub-1.15.0 (dmd-2.086). It can be fixed for dub-1.15.0 by changing `$?` to `$$?` in the `dub.json` file, in the `cli-test` section. See [dub issue #1709](https://github.com/dlang/dub/issues/1709).
+* The dub.json file works with dub-1.15.0 and later but not dub-1.14.0 and earlier. To use with dub-1.14.0 changing `$$?` to `$?` in the `dub.json` file, in the `cli-test` section. See [dub issue #1709](https://github.com/dlang/dub/issues/1709).
+* dub packaged with dmd-2.089.x and earlier has intermittent failures on travis-ci due to stack overflows. See: [druntime PR #2904](https://github.com/dlang/druntime/pull/2904). These issues are addressed in dmd-2.090.0 and ldc-1.20.0.
 * This project does not build with dmd-2.088.0. This is due to an issue in the [io package version 0.2.2](https://github.com/MartinNowak/io) library triggered by regression in DMD. See [druntime PR #2853](https://github.com/dlang/druntime/pull/2853). Other compiler versions are fine.
 
 Tests available are based on components from:
