@@ -6,8 +6,8 @@
     "copyright"    : "Copyright (c) 2019, Jon Degenhardt",
     "license"      : "BSL-1.0",
     "dependencies" : {
-        "iopipe": "~>0.1.7",
-        "tsv-utils:common": "~>1.5.0"
+        "iopipe": ">=0.1.7",
+        "tsv-utils:common": ">=1.5.0"
     },
     "targetName" : "dcat",
     "targetPath" : "bin",
