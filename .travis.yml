@@ -15,6 +15,9 @@ matrix:
   # - OS X, ldc-latest-ci lto
   # - Linux, ldc-beta lto/pgo
   # - Linux, ldc-latest-ci lto
+  #
+  # Note: Dec 2020, all osx builds disabled due to travis-ci fee changes.
+  #
   include:
     - os: linux
       dist: xenial
@@ -52,44 +55,44 @@ matrix:
       language: d
       env: LTO_PGO=1
       d: ldc
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: dmd-2.090.1
-      env: CLI_TEST=1
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: dmd
-      env: CLI_TEST=1
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc-1.20.0
-      env: LTO_PGO=1
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc
-      env: LTO_PGO=1
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc-beta
-      env: LTO_PGO=1
-      if: type IN (cron)
-    - os: osx
-      osx_image: xcode11.1
-      group: travis_latest
-      language: d
-      d: ldc-latest-ci
-      env: LTO=1
-      if: type IN (cron)
+#    - os: osx
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: dmd-2.090.1
+#      env: CLI_TEST=1
+#    - os: osx
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: dmd
+#      env: CLI_TEST=1
+#    - os: osx
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: ldc-1.20.0
+#      env: LTO_PGO=1
+#    - os: osx
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: ldc
+#      env: LTO_PGO=1
+#    - os: osx
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: ldc-beta
+#      env: LTO_PGO=1
+#      if: type IN (cron)
+#    - os: osx
+#      osx_image: xcode11.1
+#      group: travis_latest
+#      language: d
+#      d: ldc-latest-ci
+#      env: LTO=1
+#      if: type IN (cron)
     - os: linux
       dist: xenial
       group: travis_latest
